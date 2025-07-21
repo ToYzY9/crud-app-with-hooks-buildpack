@@ -1,0 +1,4 @@
+GET http://localhost:3001/api/users/someInvalidId
+
+###
+GET http://localhost:3001/api/users/78642ba9fdb918b32fe495bf

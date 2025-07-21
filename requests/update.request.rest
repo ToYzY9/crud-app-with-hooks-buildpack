@@ -1,0 +1,45 @@
+PUT http://localhost:3001/api/users/686ac519800d2882161f8f67
+Content-Type: application/json
+
+{
+    "name": "Kilo Mbili",
+     "username": "Neopolis"
+}
+
+###
+PUT http://localhost:3001/api/users/686ac519800d2882161f8f67
+Content-Type: application/json
+
+{
+    "name": "Kilo Mbili",
+     "username": "Neo"
+}
+
+###
+PUT http://localhost:3001/api/users/686ac34b800d2882161f8f5e
+Content-Type: application/json
+
+{
+    "name": "LO",
+     "username": "DE"
+}
+
+
+###
+PUT http://localhost:3001/api/users/686ac34b800d2882161f8f5e
+Content-Type: application/json
+
+{
+    "name": 203,
+     "username": 2024
+}
+
+###
+PUT http://localhost:3001/api/users/someInvalidId
+Content-Type: application/json
+
+{
+    "name": "TELE",
+     "username": "MONDE"
+}
+

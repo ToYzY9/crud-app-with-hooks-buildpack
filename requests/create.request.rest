@@ -1,0 +1,58 @@
+POST http://localhost:3001/api/users
+Content-Type: application/json
+
+{
+    "name": "Kilo",
+     "username": "Neo"
+}
+
+###
+POST http://localhost:3001/api/users
+Content-Type: application/json
+
+{
+    "name": 2023,
+     "username": 202
+}
+###
+POST http://localhost:3001/api/users
+Content-Type: application/json
+
+{
+    "name": "",
+     "username": 202
+}
+
+
+###
+POST http://localhost:3001/api/users
+Content-Type: application/json
+
+{
+    "name": "",
+     "username": ""
+}
+###
+POST http://localhost:3001/api/users
+Content-Type: application/json
+
+{
+    "name": "UNNOM",
+     "username": ""
+}
+###
+POST http://localhost:3001/api/users
+Content-Type: application/json
+
+{
+    "name": "",
+     "username": "UNPRENOM"
+}
+###
+POST http://localhost:3001/api/users
+Content-Type: application/json
+
+{
+    "name": "Nia",
+     "username": "Nio"
+}

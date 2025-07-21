@@ -1,0 +1,617 @@
+::ffff:127.0.0.1 - - [23/Jun/2025:18:28:44 +0000] "POST /api/users HTTP/1.1" 200 50
+::ffff:127.0.0.1 - - [23/Jun/2025:18:28:51 +0000] "GET /api/users HTTP/1.1" 200 373
+::ffff:127.0.0.1 - - [23/Jun/2025:18:29:19 +0000] "POST /api/userss HTTP/1.1" 404 28
+::ffff:127.0.0.1 - - [23/Jun/2025:18:35:03 +0000] "GET /api/users HTTP/1.1" 200 322
+::ffff:127.0.0.1 - - [23/Jun/2025:18:35:38 +0000] "GET /apii/users HTTP/1.1" 404 28
+::ffff:127.0.0.1 - - [23/Jun/2025:18:36:56 +0000] "GET /apii/users HTTP/1.1" 404 28
+::ffff:127.0.0.1 - - [23/Jun/2025:18:37:06 +0000] "GET /api/users HTTP/1.1" 200 323
+::ffff:127.0.0.1 - - [23/Jun/2025:18:37:17 +0000] "GET /api/users/1 HTTP/1.1" 404 -
+::ffff:127.0.0.1 - - [23/Jun/2025:18:41:25 +0000] "GET /api/users HTTP/1.1" 200 323
+::ffff:127.0.0.1 - - [23/Jun/2025:18:44:46 +0000] "GET /api/users HTTP/1.1" 200 323
+::ffff:127.0.0.1 - - [23/Jun/2025:18:46:02 +0000] "GET /api/users HTTP/1.1" 200 323
+::ffff:127.0.0.1 - - [23/Jun/2025:18:46:11 +0000] "GET /api/users HTTP/1.1" 200 323
+::ffff:127.0.0.1 - - [23/Jun/2025:18:48:14 +0000] "GET /api/users HTTP/1.1" 200 323
+::ffff:127.0.0.1 - - [23/Jun/2025:18:48:20 +0000] "POST /api/users HTTP/1.1" 200 50
+::ffff:127.0.0.1 - - [23/Jun/2025:18:51:33 +0000] "GET /api/users/1 HTTP/1.1" 404 -
+::ffff:127.0.0.1 - - [23/Jun/2025:18:52:10 +0000] "GET /api/users/1 HTTP/1.1" 404 -
+::ffff:127.0.0.1 - - [23/Jun/2025:18:52:41 +0000] "GET /api/users/1 HTTP/1.1" 200 46
+::ffff:127.0.0.1 - - [23/Jun/2025:18:53:36 +0000] "GET /api/users/1 HTTP/1.1" 200 46
+::ffff:127.0.0.1 - - [23/Jun/2025:18:53:56 +0000] "POST /api/users HTTP/1.1" 200 50
+::1 - - [23/Jun/2025:18:54:40 +0000] "PUT /api/users/1 HTTP/1.1" 404 150
+::1 - - [23/Jun/2025:18:54:51 +0000] "POST /api/users/1 HTTP/1.1" 404 151
+::1 - - [23/Jun/2025:18:55:04 +0000] "GET /api/users/1 HTTP/1.1" 200 46
+::1 - - [23/Jun/2025:18:56:13 +0000] "GET /appi/users/1 HTTP/1.1" 404 28
+::1 - - [23/Jun/2025:18:56:22 +0000] "GET /appi/users/1 HTTP/1.1" 404 28
+::1 - - [23/Jun/2025:18:56:28 +0000] "GET /api/users/1 HTTP/1.1" 304 -
+::1 - - [23/Jun/2025:18:56:41 +0000] "POST /api/users/1 HTTP/1.1" 404 28
+::1 - - [23/Jun/2025:18:56:51 +0000] "PUT /api/users/1 HTTP/1.1" 404 28
+::1 - - [23/Jun/2025:18:57:11 +0000] "PUT /api/users HTTP/1.1" 404 28
+::1 - - [23/Jun/2025:18:57:19 +0000] "PUT /api/users HTTP/1.1" 404 28
+::1 - - [23/Jun/2025:18:57:28 +0000] "POST /api/users HTTP/1.1" 400 24
+::1 - - [23/Jun/2025:18:57:57 +0000] "POST /api/users/mplo HTTP/1.1" 404 28
+::ffff:127.0.0.1 - - [23/Jun/2025:19:19:41 +0000] "DELETE /api/users/0xm8f4exs3 HTTP/1.1" 204 -
+::ffff:127.0.0.1 - - [23/Jun/2025:19:20:05 +0000] "POST /api/users HTTP/1.1" 200 50
+::ffff:127.0.0.1 - - [23/Jun/2025:19:21:01 +0000] "POST /api/users HTTP/1.1" 200 50
+::ffff:127.0.0.1 - - [23/Jun/2025:19:24:14 +0000] "POST /api/users HTTP/1.1" 200 50
+::ffff:127.0.0.1 - - [23/Jun/2025:19:27:04 +0000] "DELETE /api/users/0xm8f4exs3 HTTP/1.1" 204 -
+::ffff:127.0.0.1 - - [23/Jun/2025:19:39:48 +0000] "GET /api/users/1 HTTP/1.1" 200 46
+::ffff:127.0.0.1 - - [23/Jun/2025:19:40:51 +0000] "GET /api/users/1 HTTP/1.1" 200 46
+::ffff:127.0.0.1 - - [23/Jun/2025:19:41:22 +0000] "GET /api/users/1 HTTP/1.1" 200 46
+::ffff:127.0.0.1 - - [23/Jun/2025:19:44:12 +0000] "GET /api/users/1 HTTP/1.1" 200 46
+::ffff:127.0.0.1 - - [23/Jun/2025:19:44:34 +0000] "POST /api/users HTTP/1.1" 200 50
+::ffff:127.0.0.1 - - [23/Jun/2025:19:44:54 +0000] "POST /api/users HTTP/1.1" 200 50
+::ffff:127.0.0.1 - - [23/Jun/2025:19:45:40 +0000] "POST /api/users HTTP/1.1" 200 50
+::ffff:127.0.0.1 - - [23/Jun/2025:19:51:45 +0000] "POST /api/users HTTP/1.1" 200 50
+::ffff:127.0.0.1 - - [23/Jun/2025:19:53:59 +0000] "POST /api/users HTTP/1.1" 200 50
+::ffff:127.0.0.1 - - [23/Jun/2025:20:03:14 +0000] "POST /api/users HTTP/1.1" 200 50
+::ffff:127.0.0.1 - - [23/Jun/2025:20:06:00 +0000] "POST /api/users HTTP/1.1" 200 50
+::ffff:127.0.0.1 - - [23/Jun/2025:20:08:20 +0000] "POST /api/users HTTP/1.1" 200 50
+::ffff:127.0.0.1 - - [23/Jun/2025:20:09:29 +0000] "POST /api/users HTTP/1.1" 200 50
+::ffff:127.0.0.1 - - [23/Jun/2025:20:17:30 +0000] "POST /api/users HTTP/1.1" 200 50
+::ffff:127.0.0.1 - - [23/Jun/2025:20:20:27 +0000] "POST /api/users HTTP/1.1" 200 50
+::ffff:127.0.0.1 - - [23/Jun/2025:20:21:05 +0000] "POST /api/users HTTP/1.1" 200 50
+::ffff:127.0.0.1 - - [23/Jun/2025:20:22:50 +0000] "POST /api/users HTTP/1.1" 200 50
+::ffff:127.0.0.1 - - [23/Jun/2025:20:28:42 +0000] "POST /api/users HTTP/1.1" 200 50
+::ffff:127.0.0.1 - - [23/Jun/2025:20:31:32 +0000] "POST /api/users HTTP/1.1" 200 50
+::ffff:127.0.0.1 - - [23/Jun/2025:20:32:18 +0000] "POST /api/users HTTP/1.1" 200 50
+::ffff:127.0.0.1 - - [23/Jun/2025:20:34:10 +0000] "POST /api/users HTTP/1.1" 200 50
+::ffff:127.0.0.1 - - [23/Jun/2025:20:37:10 +0000] "POST /api/users HTTP/1.1" 200 50
+::ffff:127.0.0.1 - - [23/Jun/2025:20:37:56 +0000] "POST /api/users HTTP/1.1" 200 50
+POST /api/users 200 50 - 3.486 ms -
+48addfdf-6f9d-4bb4-b25e-311215872b90 POST /api/users 2.211 ms {"name":"NiaO","username":"Teo"}
+a803810a-6306-4a02-92ee-e2ce49e15e80 GET /api/users 4.428 ms {}
+94dea064-7989-4d85-bf82-44042c15becd GET /.well-known/appspecific/com.chrome.devtools.json 0.876 ms {}
+aa0dee52-cdcc-4a0a-8014-ebbdece50bbe GET /api/users 2.165 ms {}
+1a256055-b586-47c7-a7aa-0a6bedc3add3 GET /api/users 0.507 ms {}
+05993f29-9b31-4807-9fab-75139167162d GET /api/users 5.201 ms {}
+4d69fb09-99c5-444d-95cc-c774988d90f8 GET /api/users 0.497 ms {}
+d8619ff1-b580-4f1f-8456-45f9930beed6 GET /api/users 4.502 ms {}
+cbddad04-bf56-4c5a-9eb9-2c5d2d582f80 GET /.well-known/appspecific/com.chrome.devtools.json 2.142 ms {}
+94e4a497-caf0-4d70-b929-72a94d0bc258 GET /api/users/1 3.798 ms {}
+9d6e64ff-aca3-4ba2-9298-6253c5ddf1b4 GET /.well-known/appspecific/com.chrome.devtools.json 0.333 ms {}
+e5918ef0-da95-4c7b-b00a-3ee4ea556892 GET /.well-known/appspecific/com.chrome.devtools.json 0.326 ms {}
+373bb13e-dae6-451a-ab7a-ec27075af113 GET /api/users 0.471 ms {}
+b3507622-f283-4ac0-9c3b-1efe0d6dfbdb GET /.well-known/appspecific/com.chrome.devtools.json 0.530 ms {}
+f22077e6-3d5d-44b8-98e6-013d5a021e98 GET /api/users 0.384 ms {}
+4a498961-92f6-45a9-962a-b3550bed8c77 PUT /api/users/1 0.334 ms {"id":"1","name":"TaniaNON","username":"SskettO"}
+87801fb3-c1f4-4e55-868f-785f3b4de472 GET /.well-known/appspecific/com.chrome.devtools.json 0.372 ms {}
+63a072a7-5b40-4b75-ae1c-cb0c5bac7eae GET /api/users 1.136 ms {}
+381a3254-37e6-4387-9f6b-8de8ed8650e4 DELETE /api/users/1 0.463 ms {}
+2a8f0171-9d81-4099-be0d-e996428b9a87 GET /.well-known/appspecific/com.chrome.devtools.json 0.394 ms {}
+94492bc8-4c10-4aae-97c5-829d5bf6a006 GET /api/users 0.310 ms {}
+22f71978-2f8b-48ee-82f7-803fcb37d5a0 POST /api/users 0.762 ms {"id":"0xmccf506j","name":"Tania","username":"SskettO"}
+3d81c061-7734-4b22-944e-cf23f54b9284 GET /.well-known/appspecific/com.chrome.devtools.json 2.065 ms {}
+fe212a80-af15-471a-8a41-a306389c2784 GET /api/users 0.415 ms {}
+db4009da-1140-4861-aeb5-750b2b5272eb GET /.well-known/appspecific/com.chrome.devtools.json 0.300 ms {}
+fd665053-add7-4982-820f-87952de91eee GET /api/users 0.485 ms {}
+da00adc0-2245-4a08-b8a1-1056b2c07a55 GET /.well-known/appspecific/com.chrome.devtools.json 0.299 ms {}
+b30419cd-0bfb-4b9c-8b5a-b1d5e5f2a80e GET /api/users 3.325 ms {}
+98ab122f-cc3a-41ee-a754-40ba96c83551 GET /.well-known/appspecific/com.chrome.devtools.json 1.738 ms {}
+71d5ff6f-c8a2-4093-b91e-472cceaca48b GET /api/users 0.637 ms {}
+4bb8ed84-fa41-4431-9575-1fb183195613 GET /.well-known/appspecific/com.chrome.devtools.json 1.361 ms {}
+6ed1a52e-d941-42f7-8c28-059ed1e572b0 GET /api/users 4.503 ms {}
+49711e11-78f9-4f58-9bc9-7255d66da9a7 GET /api/users 7.388 ms {}
+4f94f661-29cf-48aa-8fd5-5edc2d9cf453 GET /api/users 0.736 ms {}
+f0f25c42-1a40-4af7-8eab-60c76a5e7372 GET /api/users 0.444 ms {}
+62467f62-252f-43a0-90b9-ca9ab24907ab GET /api/users 0.263 ms {}
+80bfdbdb-7e90-448b-a26b-ac1b771486a2 GET /api/users 0.227 ms {}
+a8b54a30-8ad5-41b0-843f-6f4921592470 GET /api/users 0.640 ms {}
+bcf98d5d-ff27-4ddc-89bb-d41f3f811d3a GET /api/users 0.387 ms {}
+a9d7f85c-217a-4dcd-a911-16907b28d7a8 GET /api/users 8.654 ms {}
+d5cf2961-b1a8-4440-bcf4-96ff542a1aab GET /api/users 0.854 ms {}
+8e6bc071-5683-4ebd-a258-fdacbb5c5cf0 GET /api/users 0.499 ms {}
+0fa3c27f-8390-4f37-bfe7-77b4fe3bd48b GET /.well-known/appspecific/com.chrome.devtools.json 0.585 ms {}
+636cb9a0-1271-4c7d-9137-bdd3123e405c PUT /api/users/1 0.289 ms {"id":"1","name":"Tania","username":"SskettO"}
+c18cd505-c9be-417a-9110-2372eed37a30 GET /api/users 0.600 ms {}
+91fe92d0-4571-4905-b9ee-cd08fbe8e0e9 GET /.well-known/appspecific/com.chrome.devtools.json 0.243 ms {}
+ac6aa2c2-fc34-437c-ace3-8d3b3e2ffe01 GET /api/users 0.373 ms {}
+5be8a2dd-ebaa-4cf1-aa83-7f7d3119c7f8 GET /.well-known/appspecific/com.chrome.devtools.json 0.880 ms {}
+25dd16b6-c5ab-43b9-9cc0-693ffa5c2ae8 POST /api/users 0.378 ms {"id":"0xmcfu8ivk","name":"Tania","username":"BOUCHOUROINE"}
+27e8d604-254a-4d37-80d9-6cba3a15ea8d GET /api/users 0.414 ms {}
+45f1c478-0d16-4dca-b5b4-7a78631ce12b GET /.well-known/appspecific/com.chrome.devtools.json 0.353 ms {}
+44c4bd59-f074-4fd6-ace9-1e966376ad84 POST /api/users 0.199 ms {"id":"0xmcfu9nfz","name":"TaniaNON","username":"BOUCHOUROINE"}
+e63e26d3-a078-4091-9c06-23462e16bca8 GET /api/users 4.644 ms {}
+93c72d7a-e71b-4500-be5b-b99a8d26823f GET /api/users 1.057 ms {}
+3f6c8e74-57d2-47b8-8966-c45b42a20e2f DELETE /api/users/1 0.869 ms {}
+fe7e121a-ee5d-4829-be71-c5963f4aa0eb POST /api/users 0.653 ms {"id":"0xmcfuj36e","name":"TaniaNON","username":"BOUCHOUROINE"}
+d7929ee9-1876-4294-b387-206fdacde01f GET /api/users 0.631 ms {}
+1008de6e-e161-4a44-a1cd-500c50644575 GET /.well-known/appspecific/com.chrome.devtools.json 0.786 ms {}
+1a1ced8d-f403-4338-ab98-c40d5becb578 POST /api/users 0.242 ms {"id":"0xmcfuk19i","name":"Tania","username":"SskettO"}
+9e6f8425-3b39-4b82-9002-36a8170dcc97 GET /api/users 0.499 ms {}
+32ce2c41-3f49-4da8-8188-fd02e2b00dd1 GET /api/users 0.330 ms {}
+0e209436-59f9-44ac-ab63-630048da20c9 GET /.well-known/appspecific/com.chrome.devtools.json 0.382 ms {}
+9b06e385-e0fa-4bb8-bf34-0e2ad8f2328a POST /api/users 0.382 ms {"id":"0xmcfuljpa","name":"TaniaNON","username":"SskettO"}
+038ca655-a9d7-46c4-bc56-c3d10b1aa3ce GET /api/users 1.011 ms {}
+016a97a4-f563-41d8-88f3-7113ff6f3b9c GET /api/users 0.409 ms {}
+799e7590-02db-44ad-8551-f4ac2a68fd31 POST /api/users 0.328 ms {"id":"0xmcfusitj","name":"TaniaNON","username":"SskettO"}
+a2d87c75-bc58-4218-85a8-8e4e09f92262 DELETE /api/users/2 0.126 ms {}
+ac6eb884-7e5a-4c61-b51f-8f7605014754 GET /api/users 0.405 ms {}
+6ff0476f-4a45-439b-8d22-db2acf992b62 GET /api/users 0.264 ms {}
+f8f0621f-66fb-47dd-8161-bbf957fe80b6 DELETE /api/users/3 745473.282 ms {}
+382878e2-2243-4979-b4cd-699b9ff14819 GET /.well-known/appspecific/com.chrome.devtools.json 6.736 ms {}
+4fdda961-4e04-4adf-b813-869cd3894dba GET /api/users 1.203 ms {}
+ef829c8a-f0c4-4bfb-9b85-767194f9c4ae GET /.well-known/appspecific/com.chrome.devtools.json 0.551 ms {}
+6105fc70-47c6-4342-ac2e-41a0bb8f40df GET /api/users 0.344 ms {}
+9814b785-14d2-4b6b-bc4a-49cd4231da68 GET /.well-known/appspecific/com.chrome.devtools.json 3.914 ms {}
+f35f56d7-fc68-4cae-96fc-edb71e7dd44b GET /api/users 109.355 ms {}
+2debea91-6938-4719-85ba-bb7f2b3cf5de DELETE /api/users/undefined 0.597 ms {}
+1189f970-6bc2-48e2-ad16-944b9c349f9a GET /api/users 47.229 ms {}
+a5f57e4e-7499-48c2-9065-a0fa7bbbb9b3 GET /.well-known/appspecific/com.chrome.devtools.json 0.341 ms {}
+ed4381ee-1c44-4d4a-9239-89d386e7abc5 GET /api/users 593.050 ms {}
+9aac4a5d-978b-4506-b5db-abc6509683d1 GET /.well-known/appspecific/com.chrome.devtools.json 2.738 ms {}
+43dfd834-2b1c-4b7e-ba09-6ab9df4d7708 GET /.well-known/appspecific/com.chrome.devtools.json 0.529 ms {}
+60f331ae-fbc5-4825-a19f-13d026ce2e88 GET /api/users 79.739 ms {}
+d43d3867-724d-4dc9-b4c4-9717ce6c0f0e GET /api/users 159.324 ms {}
+fedd4097-93ba-4a6c-8d67-b7b933448118 GET /.well-known/appspecific/com.chrome.devtools.json 1.348 ms {}
+ce1f2b39-7f83-4520-b89d-9335715ca768 GET /.well-known/appspecific/com.chrome.devtools.json 2.054 ms {}
+d0c1d528-e7c4-4aaf-ba2e-b6b3b9ca9a1a GET /api/users 74.563 ms {}
+c31239f2-597f-45d0-838d-4d0550614d39 GET /.well-known/appspecific/com.chrome.devtools.json 3.601 ms {}
+e7f6b9b6-ae57-4a95-b035-e777ddedcf5e GET /api/users 80.677 ms {}
+03bf6d1b-2f98-4542-8bfe-6d157a882a19 DELETE /api/users/6860436595371b37526485cc 10.076 ms {}
+1335c08d-606f-40f2-9ca9-bfc716db4143 DELETE /api/users/6860436595371b37526485cc 1.299 ms {}
+6413d3d5-ef62-47d7-ae8c-75cfa21498a6 GET /.well-known/appspecific/com.chrome.devtools.json 2.506 ms {}
+c7e83870-72a4-43af-a229-0916f0a4c5ff GET /api/users 101.965 ms {}
+8919fdea-7f86-42b6-8507-79825014bbe0 PUT /api/users/686043c9a0da6d99d187ece4 0.386 ms {"id":"686043c9a0da6d99d187ece4","name":"HTML is Easy","username":"Kimo"}
+c2faea4e-2c11-40f9-b36d-d0507ca793bb PUT /api/users/686043c9a0da6d99d187ece4 0.244 ms {"id":"686043c9a0da6d99d187ece4","name":"HTML is Easyo","username":"Kimo"}
+fba64a08-8a04-4e01-b780-4b9654d15b33 PUT /api/users/686043c9a0da6d99d187ece4 2.292 ms {"id":"686043c9a0da6d99d187ece4","name":"HTML is Easy","username":"Kimo"}
+7cfdf466-04f8-45e7-8e75-dd4e0853bad9 DELETE /api/users/686043c9a0da6d99d187ece4 2.702 ms {}
+7aa6d8f3-5e57-4d12-b22e-e40c22317241 PUT /api/users/686043c9a0da6d99d187ece4 2.227 ms {"id":"686043c9a0da6d99d187ece4","name":"HTML is Easy","username":"Kimo"}
+81c3964c-2c23-40d0-86d6-bd84b7be310e DELETE /api/users/686043c9a0da6d99d187ece4 2.171 ms {}
+891a6df9-b485-4197-9e4b-b2478414cb19 DELETE /api/users/686043c9a0da6d99d187ece4 7.153 ms {}
+9ab2c9d6-5317-4c82-85ad-c44b03ec4ee6 DELETE /api/users/686043c9a0da6d99d187ece4 4.512 ms {}
+0546ed5f-ef32-4caa-9cab-d055a3be0795 GET /.well-known/appspecific/com.chrome.devtools.json 2.725 ms {}
+dd809880-91a0-4e29-884b-ec6b046af329 GET /api/users 76.510 ms {}
+8bffbce9-bb95-4ce1-aed6-95d04359280a DELETE /api/users/686043c9a0da6d99d187ece4 1.768 ms {}
+3aa3a8a8-84a7-4f2e-a7ac-cf803acb6170 DELETE /api/users/686043c9a0da6d99d187ece4 4.013 ms {}
+5a6f0235-0357-41ad-8a1a-a642384fa5b8 GET /api/users/686043c9a0da6d99d187ece4 1.432 ms {}
+721fda22-b6ce-4eba-87cc-ea7b8646cbfd GET /api/users/686043c9a0da6d99d187ece4 0.507 ms {}
+c7f334c7-0f67-45bd-a4e1-943e5fb2f2c7 DELETE /api/users/686043c9a0da6d99d187ece4 0.495 ms {}
+106dd913-90e9-4a14-a5df-a58f1fbdbdc2 DELETE /api/users/686043c9a0da6d99d187ece4 6.753 ms {}
+319162d6-6bae-4397-812a-54e6d41db072 PUT /api/users/686043c9a0da6d99d187ece4 1.653 ms "PUT /api/users/686043c9a0da6d99d187ece4 HTTP/1.1" 404 28 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 {"id":"686043c9a0da6d99d187ece4","name":"HTML is Easy","username":"Kimo"}
+fb126b83-ff1e-47a8-9722-c1fd7acf8321 DELETE /api/users/686043c9a0da6d99d187ece4 3.647 ms "DELETE /api/users/686043c9a0da6d99d187ece4 HTTP/1.1" 500 2028 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 {}
+9b4b06e8-77f6-45e3-8f28-1a2c3599dece PUT /api/users/686043c9a0da6d99d187ece4 0.764 ms "PUT /api/users/686043c9a0da6d99d187ece4 HTTP/1.1" 404 28 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 {"id":"686043c9a0da6d99d187ece4","name":"HTML is Easy","username":"Kimo"}
+a4eb946b-a4a9-4b88-adbf-65d77067877b DELETE /api/users/6860436595371b37526485cc 6.867 ms "DELETE 500 2028 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 {}
+8d923a8e-39f6-4fb1-baf2-0dd027cf5a3d GET /.well-known/appspecific/com.chrome.devtools.json 7.065 ms "404 28" {}
+e7568471-bc06-49f2-a67a-330ff2c29950 GET /api/users 81.426 ms "304 -" {}
+fb700a71-adc4-4294-a8a5-6cde3d380fed DELETE /api/users/686043c9a0da6d99d187ece4 2.256 ms "500 2028" {}
+448cff0e-3fc6-4ded-89d4-1eb1d8a2f7d1 DELETE 500 /api/users/686043c9a0da6d99d187ece4 8.190 ms " 2028" {}
+e70acc0e-4b2f-4675-8b3d-c48f02a6c0c1 PUT 404 /api/users/686043c9a0da6d99d187ece4 1.450 ms " 28" {"id":"686043c9a0da6d99d187ece4","name":"HTML is Easy","username":"Kimo"}
+107a4c5a-6d3c-43d2-9f2b-b79825b01976 GET 500 /api/users/686043c9a0da6d99d187ece4 1.524 ms " 2028" {}
+c473d2aa-1970-4927-9245-7f7ea4a4eb86 GET 404 /.well-known/appspecific/com.chrome.devtools.json 0.767 ms " 28" {}
+b6c4f690-962e-4ec3-97b7-b690aca2631f GET 304 /api/users 79.045 ms " -" {}
+fd395a30-771f-42b2-befb-7012b5928acd DELETE 500 /api/users/686043c9a0da6d99d187ece4 1.203 ms " 2028" {}
+69f53c86-b14d-4687-bd38-c0965c0ff013 DELETE 500 - "2028" /api/users/686043c9a0da6d99d187ece4 3.938 ms  {}
+e66ca868-8044-4b92-95af-76899ce608ff DELETE 500 - "2028" /api/users/686043c9a0da6d99d187ece4 16.148 ms  {}
+f15f7a21-6a00-4a00-83fe-9340a5f29d37 PUT 404 - "28" /api/users/686043c9a0da6d99d187ece4 1.900 ms  {"id":"686043c9a0da6d99d187ece4","name":"HTML is Easy","username":"Kimo"}
+30d4091d-430f-4a16-90aa-6c1dcd98e798 DELETE 500 - 2028 /api/users/686043c9a0da6d99d187ece4 7.970 ms {}
+11567cdc-7c8b-46bb-b8b9-c115f6833dda GET 404 /.well-known/appspecific/com.chrome.devtools.json - 28 3.128 ms {}
+183cce8e-3da5-4397-8876-1e9cdbbdece4 GET 304 /api/users - - 76.410 ms {}
+d46b2dd0-f89f-404f-bef7-92849395c09a DELETE 500 /api/users/686043c9a0da6d99d187ece4 - 2028 3.800 ms {}
+90afd5d0-0119-4ddd-ab15-244444e0b135 PUT 404 /api/users/686043c9a0da6d99d187ece4 - 28 0.325 ms {"id":"686043c9a0da6d99d187ece4","name":"HTML is Easy","username":"Kimo"}
+8048a5f8-8775-4968-921c-193cb3d039a4 DELETE 500 /api/users/686043c9a0da6d99d187ece4 - 2028 1.302 ms {}
+8cff28f5-d25d-4151-bdae-92415585d9c8 DELETE 500 /api/users/686043c9a0da6d99d187ece4 2028 - 5.079 ms {}
+655a36d1-4704-4242-bb06-29115a9ede21 DELETE 500 /api/users/686043c9a0da6d99d187ece4 2028 - 1.040 ms {}
+00f685f7-94bb-4203-ab4b-88cba5c18984 DELETE 500 /api/users/686043c9a0da6d99d187ece4 2028 - 1.331 ms {}
+76d2a66e-a059-4bdd-a6c0-9d820907267d ::1 - - [30/Jun/2025:18:08:57 +0000] DELETE 500 /api/users/686043c9a0da6d99d187ece4 2028 - 6.025 ms {}
+::1 - - [30/Jun/2025:18:09:47 +0000] 9914cd92-a3b9-40d3-946f-1bfb7d4eea74 DELETE 500 /api/users/686043c9a0da6d99d187ece4 2028 - 5.514 ms {}
+::1 - - [30/Jun/2025:18:10:53 +0000] 546b5b2e-d3dd-40d2-a03e-8f15040cd406 DELETE 500 2028 - /api/users/686043c9a0da6d99d187ece4  4.152 ms {}
+::1 - - [30/Jun/2025:18:11:31 +0000] 3edaad24-27cd-4666-8dc8-08cb172686f0 DELETE 2028 - 500 /api/users/686043c9a0da6d99d187ece4 8.745 ms {}
+::1 - - [30/Jun/2025:18:11:59 +0000] a33b3dd3-1935-4144-ae3c-2269b375b6c7 PUT 28 - 404 /api/users/686043c9a0da6d99d187ece4 1.377 ms {"id":"686043c9a0da6d99d187ece4","name":"HTML is Easy","username":"Kimo"}
+::1 - - [30/Jun/2025:18:12:39 +0000] dde183c7-ced2-47fd-b1f2-524fa4c56ee1 DELETE - 2028 - 500 /api/users/686043c9a0da6d99d187ece4 7.041 ms {}
+::1 - - [30/Jun/2025:18:12:42 +0000] f3a389b4-78c1-4973-867a-fc60893e38de DELETE - 2028 - 500 /api/users/686043c9a0da6d99d187ece4 0.895 ms {}
+::1 - - [30/Jun/2025:18:12:46 +0000] f2347337-46e8-4be3-a2d9-6ba2d184f823 DELETE - 2028 - 500 /api/users/686043c9a0da6d99d187ece4 0.604 ms {}
+::1 - - [30/Jun/2025:18:13:11 +0000] 54badadf-5d6a-4b34-aece-3c4d7109dcff PUT - 28 - 404 /api/users/686043c9a0da6d99d187ece4 2.470 ms {"id":"686043c9a0da6d99d187ece4","name":"HTML is Easy","username":"Kimo"}
+::1 - - [30/Jun/2025:18:14:17 +0000] e1fc32de-5c28-415e-ab46-2e10acf025f4 DELETE - 500 - 2028 /api/users/686043c9a0da6d99d187ece4 4.740 ms {}
+::1 - - [30/Jun/2025:18:14:48 +0000] e36aea9b-2768-435f-8ffe-809484c4e46b DELETE 500 - 2028 /api/users/686043c9a0da6d99d187ece4 5.451 ms {}
+::1 - - [30/Jun/2025:18:14:57 +0000] f0c26cab-4b94-4e87-92da-5fecdbc0b704 PUT 404 - 28 /api/users/686043c9a0da6d99d187ece4 3.819 ms {"id":"686043c9a0da6d99d187ece4","name":"HTML is Easy","username":"Kimo"}
+::1 - - [01/Jul/2025:17:24:03 +0000] 9f0e03b0-07c7-4484-ab08-e2286061c951 DELETE 500 - 2028 /api/users/686043c9a0da6d99d187ece4 15.464 ms {}
+::1 - - [01/Jul/2025:17:24:10 +0000] d91a3c29-076b-482d-a91d-03cfa82c1216 PUT 404 - 28 /api/users/686043c9a0da6d99d187ece4 0.714 ms {"id":"686043c9a0da6d99d187ece4","name":"HTML is Easy","username":"Kimo"}
+::1 - - [01/Jul/2025:17:24:19 +0000] ae684df2-4781-4cfa-8a1a-68921ab59282 PUT 404 - 28 /api/users/686043c9a0da6d99d187ece4 0.482 ms {"id":"686043c9a0da6d99d187ece4","name":"HTML is Easy","username":"Kimo"}
+::1 - - [01/Jul/2025:17:26:58 +0000] 4397dfda-840e-488a-b7a5-cf4ff99cc394 GET 304 - - /api/users 517.436 ms {}
+::1 - - [01/Jul/2025:17:26:58 +0000] b3ebe88b-8295-4379-94d2-5f46948a7ec3 GET 404 - 28 /.well-known/appspecific/com.chrome.devtools.json 0.271 ms {}
+::1 - - [01/Jul/2025:17:40:16 +0000] fe54650b-3292-4e29-a436-671791db7228 GET 404 - 28 /.well-known/appspecific/com.chrome.devtools.json 3.022 ms {}
+::1 - - [01/Jul/2025:17:40:17 +0000] c414cd9d-c4a4-4998-aad0-f5b0c0b3514c GET 304 - - /api/users 116.101 ms {}
+::1 - - [01/Jul/2025:17:40:47 +0000] 657ddbc6-0f2c-4546-9a3c-9fac4af2592b GET 404 - 28 /.well-known/appspecific/com.chrome.devtools.json 5.984 ms {}
+::1 - - [01/Jul/2025:17:40:48 +0000] a2e2f1b4-6c37-45a9-8bfe-8caf0f206315 GET 500 - 2043 /api/users 3.830 ms {}
+::1 - - [01/Jul/2025:17:43:15 +0000] 414d1270-2758-4ded-a2f2-4d832dd86bc8 GET 404 - 28 /.well-known/appspecific/com.chrome.devtools.json 5.258 ms {}
+::1 - - [01/Jul/2025:17:45:09 +0000] 37f2e05d-6d35-48d5-b428-276d42e8f1f9 GET 404 - 28 /.well-known/appspecific/com.chrome.devtools.json 2.933 ms {}
+::1 - - [01/Jul/2025:17:45:09 +0000] 7b94932b-9b7c-4c40-95f5-27d9a31dcb21 GET 200 - 109 /api/users 70.998 ms {}
+::1 - - [01/Jul/2025:17:46:17 +0000] c2542b76-8508-4a45-a177-706526ede09b PUT 404 - 28 /api/users/686043c9a0da6d99d187ece4 1.658 ms {"id":"686043c9a0da6d99d187ece4","name":"HTML is Easy","username":"Kimo"}
+::1 - - [01/Jul/2025:17:46:17 +0000] 7bb4e787-869f-442f-90ee-a851f3eaa958 DELETE 500 - 2027 /api/users/686043c9a0da6d99d187ece4 2.831 ms {}
+::1 - - [01/Jul/2025:17:50:45 +0000] 967a7667-72de-4e56-8792-3cc8765af7a7 GET 404 - 28 /.well-known/appspecific/com.chrome.devtools.json 5.068 ms {}
+::1 - - [01/Jul/2025:17:52:24 +0000] 4c44c7dd-2a52-47a1-9b49-516d1616ca98 GET 404 - 28 /.well-known/appspecific/com.chrome.devtools.json 4.617 ms {}
+::1 - - [01/Jul/2025:17:54:00 +0000] ff93bb1b-6f1c-47ba-ae72-5dd4955304dc GET 404 - 28 /.well-known/appspecific/com.chrome.devtools.json 7.917 ms {}
+::1 - - [01/Jul/2025:17:54:06 +0000] 1309f08c-2988-40c1-b3e6-003e1e71d7bc GET - - - /api/users - ms {}
+::1 - - [01/Jul/2025:17:54:06 +0000] 3f82b86a-894a-42e4-9bf2-5aa0fae9a791 GET 404 - 28 /.well-known/appspecific/com.chrome.devtools.json 0.506 ms {}
+::1 - - [01/Jul/2025:17:58:25 +0000] c33cc9b6-6c38-4bdf-b1da-c0413b301e8d GET 404 - 28 /.well-known/appspecific/com.chrome.devtools.json 2.776 ms {}
+::1 - - [01/Jul/2025:17:58:25 +0000] ad099bb3-cb6f-42bc-ab01-7d8035e91399 GET 200 - 109 /api/users 73.577 ms {}
+::1 - - [01/Jul/2025:18:09:04 +0000] 94b887ba-3ff8-45c5-8edc-0488dc3cb94a GET 404 - 28 /.well-known/appspecific/com.chrome.devtools.json 2.034 ms {}
+::1 - - [01/Jul/2025:18:09:04 +0000] b291965d-802c-4075-b473-bdbdcfa77a3e GET 304 - - /api/users 58.159 ms {}
+::1 - - [01/Jul/2025:18:09:06 +0000] bc47eadd-c0ff-41e0-af2c-34617ce91f97 PUT 404 - 28 /api/users/686043c9a0da6d99d187ece4 1.068 ms {"id":"686043c9a0da6d99d187ece4","name":"HTML is Easy","username":"Kimo"}
+::1 - - [01/Jul/2025:18:09:36 +0000] 17bf7135-0989-4c8c-88d4-ba9c9ee87238 DELETE 500 - 2027 /api/users/686043c9a0da6d99d187ece4 3.215 ms {}
+::1 - - [01/Jul/2025:18:09:39 +0000] 73766a62-6b93-456a-945b-3c8da1d95622 GET 500 - 2027 /api/users/686043c9a0da6d99d187ece4 2.484 ms {}
+::1 - - [01/Jul/2025:18:23:06 +0000] 5070a52c-7451-4eea-aec4-ed828d33498f GET 404 - 28 /.well-known/appspecific/com.chrome.devtools.json 5.178 ms {}
+::1 - - [01/Jul/2025:18:23:08 +0000] fc914219-6bba-4e6d-a91a-65efab7f86f5 GET 304 - - /api/users 75.514 ms {}
+::1 - - [01/Jul/2025:18:23:40 +0000] 13c85939-96c0-4fde-8644-0d736631217e GET 404 - 28 /.well-known/appspecific/com.chrome.devtools.json 0.740 ms {}
+::1 - - [01/Jul/2025:18:23:40 +0000] 1144312b-02eb-4dee-9ed0-25bf79d24815 GET 304 - - /api/users 52.553 ms {}
+::1 - - [01/Jul/2025:18:36:11 +0000] 587f2266-3dc8-4378-8938-04458e6a7ebe POST 200 - 127 /api/users 73.424 ms {"id":"0xmckvcgsg","name":"TaniaO","username":"Sskett"}
+::1 - - [01/Jul/2025:18:36:30 +0000] 760dfbc5-50f1-4c95-9e17-04b2e0861c1e GET 404 - 28 /.well-known/appspecific/com.chrome.devtools.json 0.807 ms {}
+::1 - - [01/Jul/2025:18:36:31 +0000] 85f8f58f-9560-4ed5-b77d-82696c1de42c GET 200 - 237 /api/users 63.829 ms {}
+::1 - - [01/Jul/2025:18:37:23 +0000] 337e2dd0-a9e0-4d9e-bab8-f318aabca738 DELETE 500 - 2027 /api/users/68642a9be018f02c7c0acf28 5.497 ms {}
+::1 - - [01/Jul/2025:18:37:35 +0000] 6c7a36b8-a426-42ff-820d-e3251182b2ae POST 200 - 68 /api/users 73.181 ms {"id":"0xmckve9on","name":"Tania","username":"Sskett"}
+::1 - - [01/Jul/2025:18:39:53 +0000] 15447fbd-8b68-44ba-907e-ae236f87fe8b POST 400 - 24 /api/users/ 0.611 ms {"username":"SskettO2025"}
+::1 - - [01/Jul/2025:18:40:41 +0000] 3af922ab-4cf8-4db6-989f-1e8485b10037 POST 200 - 74 /api/users/ 56.957 ms {"name":"tO2025","username":"SskettO2025"}
+::1 - - [01/Jul/2025:18:40:51 +0000] 902981d8-c8fb-41f9-b398-a1677c6c584d GET 404 - 28 /.well-known/appspecific/com.chrome.devtools.json 0.614 ms {}
+::1 - - [01/Jul/2025:18:40:52 +0000] f54d5b66-733b-4876-94b4-5d9d39c491e2 GET 200 - 381 /api/users 68.556 ms {}
+::1 - - [01/Jul/2025:18:48:38 +0000] 75841bfd-5bef-411b-acfe-d55a8923b314 GET 200 - 74 /api/users/68642ba9fdb918b32fe495bf 97.007 ms {}
+::1 - - [02/Jul/2025:19:33:42 +0000] b5b70426-6129-4323-99f5-66c0b094d50d GET 404 - 28 /.well-known/appspecific/com.chrome.devtools.json 3.313 ms {}
+::1 - - [02/Jul/2025:19:33:43 +0000] c2e2b666-f977-4d34-acf3-134eef1b8ef7 GET 304 - - /api/users 108.504 ms {}
+::1 - - [02/Jul/2025:19:33:46 +0000] 6f9ee704-e162-4848-8801-a3ab0597de73 DELETE 204 - - /api/users/6860436595371b37526485cc 76.282 ms {}
+::1 - - [02/Jul/2025:19:33:50 +0000] 4905fbfc-2144-48a6-a07d-780bfcffe8ec DELETE 204 - - /api/users/68642a9be018f02c7c0acf28 60.988 ms {}
+::1 - - [02/Jul/2025:19:42:53 +0000] f97e7512-d680-4940-a50f-0334f7b274b9 PUT 200 - 73 /api/users/68642ba9fdb918b32fe495bf 69.684 ms {"id":"68642ba9fdb918b32fe495bf","name":"TROLL","username":"SskettO2025"}
+::1 - - [02/Jul/2025:19:43:16 +0000] d91ea6df-205f-4c5c-846f-92500f8e0f4d PUT 200 - 66 /api/users/68642ba9fdb918b32fe495bf 109.452 ms {"id":"68642ba9fdb918b32fe495bf","name":"TROLL","username":"2025"}
+::1 - - [02/Jul/2025:19:47:25 +0000] 407e1b92-e07b-4cee-86b1-b349b5a14d86 PUT 200 - 72 /api/users/686043c9a0da6d99d187ece4 57.233 ms {"id":"686043c9a0da6d99d187ece4","name":"HTML Easy","username":"Kimono"}
+::ffff:127.0.0.1 - - [03/Jul/2025:19:10:40 +0000] 039d670c-75d2-4082-b4c6-f23bb4e092de POST 200 - 64 /api/users 75.476 ms {"name":"Kilo","username":"Neo"}
+::1 - - [03/Jul/2025:19:10:55 +0000] b692657a-739a-4e1d-8776-cfbb7c13d949 GET 404 - 28 /.well-known/appspecific/com.chrome.devtools.json 0.579 ms {}
+::1 - - [03/Jul/2025:19:10:56 +0000] 15a79cf0-b308-46f3-9e80-55eadfe9bb91 GET 200 - 275 /api/users 60.266 ms {}
+::1 - - [03/Jul/2025:19:19:37 +0000] 4e5eb1d4-9fdd-4e60-8662-123914673deb GET 404 - 28 /.well-known/appspecific/com.chrome.devtools.json 2.581 ms {}
+::1 - - [03/Jul/2025:19:19:37 +0000] c0b792ff-0133-44b7-ae81-5215103c23a6 GET 304 - - /api/users 115.116 ms {}
+::1 - - [03/Jul/2025:19:19:45 +0000] 82565a8b-8793-41a7-80f5-9972f7e8aa3e GET 404 - 28 /.well-known/appspecific/com.chrome.devtools.json 0.668 ms {}
+::1 - - [03/Jul/2025:19:19:45 +0000] 9f6feb34-78e4-4757-835d-1200f065ff40 GET 304 - - /api/users 46.638 ms {}
+::1 - - [03/Jul/2025:19:20:23 +0000] 8bf4fcbb-4b22-4699-8f86-4dcc141372c5 PUT 200 - 64 /api/users/6866d5b0543fa45dea7a86a8 148.848 ms {"id":"6866d5b0543fa45dea7a86a8","name":"Kilo","username":"Neo"}
+::ffff:127.0.0.1 - - [03/Jul/2025:19:21:15 +0000] c0948a5d-a465-4499-a624-c119f3bd2aee GET 200 - 64 /api/users/6866d5b0543fa45dea7a86a8 46.360 ms {}
+::ffff:127.0.0.1 - - [03/Jul/2025:19:22:16 +0000] cff99ee2-a950-4a4a-8552-12af23157bd2 GET 200 - 275 /api/users 178.270 ms {}
+::ffff:127.0.0.1 - - [03/Jul/2025:19:23:11 +0000] 6198fe77-db95-4de2-8336-e7582a3cc3b7 DELETE 204 - - /api/users/6866d5b0543fa45dea7a86a8 57.397 ms {}
+::1 - - [03/Jul/2025:19:23:18 +0000] 690bdead-8f3b-4b09-a29c-dcc402d227ce GET 404 - 28 /.well-known/appspecific/com.chrome.devtools.json 0.917 ms {}
+::1 - - [03/Jul/2025:19:23:18 +0000] a7eaddfa-a71a-4b33-89d9-9693b470e9b3 GET 200 - 210 /api/users 58.416 ms {}
+::1 - - [03/Jul/2025:19:43:24 +0000] c25dc4ad-ce4c-4889-8987-2d6762c7d6d5 GET 404 - - /api/users/78642ba9fdb918b32fe495bf 62.480 ms {}
+::1 - - [03/Jul/2025:19:44:38 +0000] 4ba80c81-486e-4fb6-bd24-197beae768ae GET 500 - 33 /api/users/someInvalidId 41.972 ms {}
+::ffff:127.0.0.1 - - [03/Jul/2025:19:45:12 +0000] 5a949905-64be-4838-94dc-dc86cca4fcbe GET 500 - 33 /api/users/someInvalidId 40.198 ms {}
+::ffff:127.0.0.1 - - [03/Jul/2025:19:45:47 +0000] a8833f68-9eb0-4929-8d3b-9c8fba2f98e7 GET 500 - - /api/users/someInvalidId 36.913 ms {}
+::1 - - [03/Jul/2025:19:46:13 +0000] f34e5f62-5819-4c21-8976-cde4e3e63a40 GET 404 - - /api/users/78642ba9fdb918b32fe495bf 52.361 ms {}
+::1 - - [03/Jul/2025:19:46:38 +0000] 836809b2-8430-4b93-93a9-4b6d9d28922d GET 500 - - /api/users/78642ba9fdb918b32fe495bf 563.194 ms {}
+::1 - - [03/Jul/2025:19:46:43 +0000] 65e95c06-cba1-4b45-9c19-e703125071d3 GET 500 - - /api/users/78642ba9fdb918b32fe495bf 53.037 ms {}
+::ffff:127.0.0.1 - - [03/Jul/2025:19:46:53 +0000] 2fbd10aa-63d1-436c-ac25-ef07dc058c72 GET 500 - - /api/users/88642ba9fdb918b32fe495bf 54.694 ms {}
+::1 - - [03/Jul/2025:19:47:07 +0000] 3e4bb290-2234-4063-9e12-6b5f2c822d5f GET 200 - 66 /api/users/68642ba9fdb918b32fe495bf 205.930 ms {}
+::1 - - [03/Jul/2025:19:47:15 +0000] c4a4fa23-39de-4802-9c89-bfcab533e964 GET 500 - - /api/users/78642ba9fdb918b32fe495bf 70.838 ms {}
+::1 - - [03/Jul/2025:19:48:41 +0000] ce1bfb41-aab4-40b6-92ed-136f7466fbc4 GET 500 - 33 /api/users/78642ba9fdb918b32fe495bf 677.253 ms {}
+::1 - - [03/Jul/2025:19:49:42 +0000] cc43a6bc-56d0-4323-9ee2-8e0cc1cbd02f GET 404 - 26 /api/users/78642ba9fdb918b32fe495bf 77.072 ms {}
+::ffff:127.0.0.1 - - [03/Jul/2025:19:50:18 +0000] 63484988-3688-4865-9888-f07c9a338e25 GET 500 - - /api/users/someInvalidId 37.778 ms {}
+::ffff:127.0.0.1 - - [03/Jul/2025:19:53:47 +0000] 30c22974-7293-4565-8904-200210fd9cd9 GET 500 - - /api/users/someInvalidId 50.636 ms {}
+::ffff:127.0.0.1 - - [03/Jul/2025:19:55:10 +0000] a178eb63-323f-4a18-951f-08dd6476b328 GET 500 - - /api/users/someInvalidId 39.883 ms {}
+::ffff:127.0.0.1 - - [03/Jul/2025:20:02:46 +0000] 87e99d4a-ba43-4e2b-90ab-8650b5612066 GET 400 - 27 /api/users/someInvalidId 48.310 ms {}
+::1 - - [03/Jul/2025:20:02:51 +0000] ffe110be-0aa2-41ac-8609-f46b8bd0cdc2 GET 404 - 26 /api/users/78642ba9fdb918b32fe495bf 54.940 ms {}
+::ffff:127.0.0.1 - - [06/Jul/2025:08:46:57 +0000] e074dbe1-aee5-4cf5-8d88-e057ed4c9667 GET 400 - 27 /api/users/someInvalidId 9.642 ms {}
+::ffff:127.0.0.1 - - [06/Jul/2025:08:47:48 +0000] 4236d231-0682-464f-ad41-6da0ab3ee4e5 DELETE 204 - - /api/users/7866d5b0543fa45dea7a86a8 426.333 ms {}
+::ffff:127.0.0.1 - - [06/Jul/2025:08:48:14 +0000] 494bb694-b520-4137-9771-b069a7583f06 DELETE 204 - - /api/users/7866d5b0543fa45dea7a86a8 86.131 ms {}
+::1 - - [06/Jul/2025:08:48:20 +0000] 299c4694-f42f-4d55-933d-90d813915ca9 GET 404 - 26 /api/users/78642ba9fdb918b32fe495bf 51.030 ms {}
+::ffff:127.0.0.1 - - [06/Jul/2025:08:48:37 +0000] 6943e6be-9c6b-458f-96b1-0b12662e2aad DELETE 204 - - /api/users/78642ba9fdb918b32fe495bf 50.573 ms {}
+::1 - - [06/Jul/2025:08:48:56 +0000] 54a194ed-c904-436f-aad0-441bc0765d3c GET 404 - 26 /api/users/78642ba9fdb918b32fe495bf 116.951 ms {}
+::1 - - [06/Jul/2025:08:48:58 +0000] d80c59a2-3769-4881-8b81-45d9792b0fd2 GET 404 - 26 /api/users/78642ba9fdb918b32fe495bf 185.045 ms {}
+::ffff:127.0.0.1 - - [06/Jul/2025:08:49:19 +0000] 9fe42f9b-70fd-46f9-9c8b-ba2d26893260 DELETE 204 - - /api/users/78642ba9fdb918b32fe495bf 51.070 ms {}
+::ffff:127.0.0.1 - - [06/Jul/2025:08:56:49 +0000] 95159c41-1af3-401e-90f6-7887f5d367b5 GET 400 - 27 /api/users/someInvalidId 11.341 ms {}
+::ffff:127.0.0.1 - - [06/Jul/2025:08:57:23 +0000] ab54a00a-20f6-409d-b774-59ef8fd0d61c GET 404 - 26 /api/users/78642ba9fdb918b32fe495bf 53.224 ms {}
+::ffff:127.0.0.1 - - [06/Jul/2025:08:58:04 +0000] 9d9ad464-c1e6-4d7e-8a0b-7762ebbd4f25 GET 400 - 27 /api/users/78642ba9fdb918b32fe495bf4 4.437 ms {}
+::ffff:127.0.0.1 - - [06/Jul/2025:08:58:46 +0000] a7ca8c40-40b8-4b37-9026-312dac01f699 DELETE 204 - - /api/users/7866d5b0543fa45dea7a86a8 52.099 ms {}
+::ffff:127.0.0.1 - - [06/Jul/2025:09:02:15 +0000] ff27a7f4-ccd4-4290-9d66-c0996baaf8ca GET 400 - 27 /api/users/someInvalidId 10.965 ms {}
+::1 - - [06/Jul/2025:09:02:28 +0000] 9a3c9b8a-23dc-49f1-b1f1-ec6a9db59c39 GET 404 - 26 /api/users/78642ba9fdb918b32fe495bf 55.396 ms {}
+::ffff:127.0.0.1 - - [06/Jul/2025:09:13:52 +0000] 4edfc289-d522-4958-9446-8058705ea0e6 GET 404 - 26 /api/users/78642ba9fdb918b32fe495bf 49.914 ms {}
+::ffff:127.0.0.1 - - [06/Jul/2025:09:13:57 +0000] 9925b7b8-f03b-486c-b50b-e288d73250a8 GET 400 - 27 /api/users/someInvalidId 3.098 ms {}
+::1 - - [06/Jul/2025:14:54:44 +0000] 3fddb567-dd45-47fd-aaf4-433ed7461651 GET 404 - 28 /.well-known/appspecific/com.chrome.devtools.json 2.375 ms {}
+::1 - - [06/Jul/2025:14:54:45 +0000] 92429b08-af19-45e9-aae5-40f1064f3eb1 GET 304 - - /api/users 185.112 ms {}
+::1 - - [06/Jul/2025:14:54:58 +0000] cc51a537-f552-4b52-a371-4cd654957646 POST 400 - 194 /api/users 60.985 ms {"id":"0xmcrsn7gu","name":"78","username":"20"}
+::1 - - [06/Jul/2025:14:57:28 +0000] 4f906c28-1a99-4a01-ad75-9c21442a9664 POST 200 - 63 /api/users 225.037 ms {"id":"0xmcrsqg0u","name":"203","username":"204"}
+::1 - - [06/Jul/2025:14:59:35 +0000] c4725aaf-6908-423e-b144-464ef5cf99b9 POST 200 - 65 /api/users 56.224 ms {"id":"0xmcrst6l2","name":"Nia","username":"Ketto"}
+::1 - - [06/Jul/2025:14:59:51 +0000] d0e494ca-78a9-42af-a57d-02b481fc13d7 POST 400 - 194 /api/users 11.923 ms {"id":"0xmcrstige","name":"Ta","username":"Ki"}
+::1 - - [06/Jul/2025:15:02:41 +0000] 8a117358-6802-485a-af96-1a639ca9ada7 PUT 200 - 62 /api/users/686a8ed843eaafafbfc66551 84.776 ms {"id":"686a8ed843eaafafbfc66551","name":"24","username":"204"}
+::1 - - [06/Jul/2025:15:02:50 +0000] 33034926-5360-4f99-a5d2-d34bb95ea787 PUT 200 - 60 /api/users/686a8ed843eaafafbfc66551 51.379 ms {"id":"686a8ed843eaafafbfc66551","name":"24","username":"2"}
+::1 - - [06/Jul/2025:15:06:19 +0000] 42e4caa9-570c-4db6-b54a-0bdc3728e672 PUT 400 - 184 /api/users/686a8ed843eaafafbfc66551 16.146 ms {"id":"686a8ed843eaafafbfc66551","name":"24","username":"2"}
+::1 - - [06/Jul/2025:15:06:32 +0000] 04b46714-2e0b-48cb-8b24-7ab108b9f1ba PUT 400 - 183 /api/users/686a8ed843eaafafbfc66551 12.270 ms {"id":"686a8ed843eaafafbfc66551","name":"2","username":"2"}
+::1 - - [06/Jul/2025:15:06:52 +0000] 9a56667e-d516-40e3-afc5-f8f07442e91d PUT 400 - 184 /api/users/686a8ed843eaafafbfc66551 4.825 ms {"id":"686a8ed843eaafafbfc66551","name":"24","username":"2"}
+::1 - - [06/Jul/2025:15:07:44 +0000] b87f2c8b-42de-4f0e-a96a-69b6eafeabb9 GET 404 - 28 /.well-known/appspecific/com.chrome.devtools.json 3.877 ms {}
+::1 - - [06/Jul/2025:15:07:44 +0000] 8faa7306-7e60-4537-a45c-0654c8682ec3 GET 200 - 337 /api/users 81.745 ms {}
+::1 - - [06/Jul/2025:15:07:52 +0000] aa995bcc-3bc2-449e-990e-e1cf05028db9 PUT 200 - 63 /api/users/686a8ed843eaafafbfc66551 66.327 ms {"id":"686a8ed843eaafafbfc66551","name":"240","username":"200"}
+::1 - - [06/Jul/2025:15:08:01 +0000] aa0d80e4-f08a-41f6-89e3-519cf12214f0 PUT 400 - 184 /api/users/686a8ed843eaafafbfc66551 4.870 ms {"id":"686a8ed843eaafafbfc66551","name":"2","username":"20"}
+::1 - - [06/Jul/2025:18:09:38 +0000] e52deb3b-9163-4510-95a9-0b6dd6e33aa6 POST 400 - 120 /api/users 11.671 ms {"name":"2025","username":"25"}
+::1 - - [06/Jul/2025:18:10:15 +0000] 08732d7d-4b0d-4ed5-9da0-65b90b02f2c3 POST 400 - 120 /api/users 2.439 ms {"name":2025,"username":"25"}
+::1 - - [06/Jul/2025:18:10:25 +0000] 3861abbb-25dd-44ee-81c4-1375ec680f42 POST 400 - 120 /api/users 2.493 ms {"name":2025,"username":25}
+::1 - - [06/Jul/2025:18:10:32 +0000] 499c4c3b-2829-4a80-ae29-12f38bf7f075 POST 200 - 64 /api/users 133.111 ms {"name":2025,"username":250}
+::ffff:127.0.0.1 - - [06/Jul/2025:18:41:15 +0000] 837f92e2-681d-46b6-a8d6-9f504e6ae965 POST 200 - 64 /api/users 64.274 ms {"name":2023,"username":202}
+::ffff:127.0.0.1 - - [06/Jul/2025:18:43:21 +0000] 4c3a8619-ffc5-4c5e-b05a-30ff34a1b19c POST 404 - 28 /api/users/686ac34b800d2882161f8f5e 0.553 ms {"name":2023,"username":202}
+::ffff:127.0.0.1 - - [06/Jul/2025:18:43:33 +0000] c8e97443-c89e-4137-a6b8-9b30397d20d4 PUT 200 - 64 /api/users/686ac34b800d2882161f8f5e 52.508 ms {"name":2023,"username":202}
+::ffff:127.0.0.1 - - [06/Jul/2025:18:43:42 +0000] 998e49fc-0452-412d-84af-346ed15b39b5 PUT 200 - 64 /api/users/686ac34b800d2882161f8f5e 52.557 ms {"name":203,"username":2024}
+::ffff:127.0.0.1 - - [06/Jul/2025:18:44:59 +0000] 2afd694e-1752-429a-8c01-871673babcdd PUT 400 - 185 /api/users/686ac34b800d2882161f8f5e 3.904 ms {"name":"LO","username":"DE"}
+::1 - - [06/Jul/2025:18:45:55 +0000] be31ca75-77c7-4f52-8a0b-25ebf92c5b51 POST 404 - 28 /api/users/686abc18800d2882161f8f5c 0.231 ms {"name":"","username":""}
+::1 - - [06/Jul/2025:18:46:00 +0000] e006e472-ab13-4053-82c0-96fd148d0b39 POST 400 - 110 /api/users/ 1.508 ms {"name":"","username":""}
+::ffff:127.0.0.1 - - [06/Jul/2025:18:46:41 +0000] 2ad8ae92-f1ce-499b-b65f-f92667b40a30 POST 400 - 110 /api/users 4.477 ms {"name":"","username":""}
+::1 - - [06/Jul/2025:18:47:42 +0000] 9b6a8eff-c19a-4c64-8df7-c255a9adeaf5 POST 200 - 63 /api/users/ 58.487 ms {"name":111,"username":120}
+::1 - - [06/Jul/2025:18:48:36 +0000] 9b948c99-372a-4338-a3f4-6992ab5da503 GET 200 - 534 /api/users/ 53.178 ms {}
+::ffff:127.0.0.1 - - [06/Jul/2025:18:48:57 +0000] 10768acb-7b0f-42ca-b6e0-2d1876737956 POST 200 - 64 /api/users 52.741 ms {"name":"Kilo","username":"Neo"}
+::1 - - [06/Jul/2025:18:49:02 +0000] 7af23c46-f593-4a74-a8bc-ffaa2d87cbad GET 200 - 599 /api/users/ 48.370 ms {}
+::ffff:127.0.0.1 - - [06/Jul/2025:18:50:38 +0000] acc170f5-60cf-4641-83fd-34e6ef51fe3d PUT 404 - 28 /api/users 0.434 ms {"name":"Kilo Mbili","username":"Neopolis"}
+::ffff:127.0.0.1 - - [06/Jul/2025:18:50:57 +0000] 80fc3800-624d-4157-96a9-6261521e5804 PUT 200 - 75 /api/users/686ac519800d2882161f8f67 68.775 ms {"name":"Kilo Mbili","username":"Neopolis"}
+::1 - - [06/Jul/2025:18:51:01 +0000] 654bc37a-fdaf-42ae-a08f-39b0c6660134 GET 200 - 610 /api/users/ 46.379 ms {}
+::ffff:127.0.0.1 - - [06/Jul/2025:18:52:21 +0000] 3073d297-7829-47d8-a4de-2cb723683173 POST 200 - 64 /api/users 93.500 ms {"name":2023,"username":202}
+::1 - - [06/Jul/2025:18:52:29 +0000] 5dd18837-d3e1-4f24-8bd8-7e8cd7d0de0c GET 200 - 675 /api/users/ 87.671 ms {}
+::1 - - [06/Jul/2025:18:59:46 +0000] 76334f18-757e-4829-a8fc-9d041020bc7c GET 304 - - /api/users/ 82.378 ms {}
+::ffff:127.0.0.1 - - [06/Jul/2025:18:59:54 +0000] 03248f8c-6749-4f0b-b07f-494e3137dcda POST 200 - 64 /api/users 72.428 ms {"name":2023,"username":202}
+::ffff:127.0.0.1 - - [06/Jul/2025:18:59:58 +0000] 7ac1fafd-5f53-4d3c-9207-4f66621ae838 POST 200 - 64 /api/users 54.752 ms {"name":2023,"username":202}
+::ffff:127.0.0.1 - - [06/Jul/2025:19:01:38 +0000] 15f7984c-e495-4e9c-8a66-6650351cb44f POST 200 - 64 /api/users 89.542 ms {"name":2023,"username":202}
+::ffff:127.0.0.1 - - [06/Jul/2025:19:02:33 +0000] 16438737-502e-4900-8be4-c4f9d1dbd1b9 PUT 200 - 64 /api/users/686ac34b800d2882161f8f5e 77.039 ms {"name":203,"username":2024}
+::ffff:127.0.0.1 - - [06/Jul/2025:19:12:33 +0000] a9d60a35-1f8a-4f9c-ae72-d4992f05acbd PUT 200 - 64 /api/users/686ac34b800d2882161f8f5e 112.352 ms {"name":203,"username":2024}
+::ffff:127.0.0.1 - - [06/Jul/2025:19:12:39 +0000] 0926e382-f661-40b3-9a45-25e1f18d36fb PUT 400 - 101 /api/users/686ac34b800d2882161f8f5e 4.388 ms {"name":"LO","username":"DE"}
+::ffff:127.0.0.1 - - [06/Jul/2025:19:13:01 +0000] 95c05ca9-2d83-420a-8d59-ef89a3c1224a POST 400 - 88 /api/users 12.138 ms {"name":"","username":""}
+::ffff:127.0.0.1 - - [06/Jul/2025:19:13:36 +0000] 28ee8c43-5acb-4baa-afa3-62b2c086b132 POST 400 - 67 /api/users 3.278 ms {"name":"UNNOM","username":""}
+::ffff:127.0.0.1 - - [06/Jul/2025:19:13:53 +0000] f58f64d1-d42f-4d2b-a756-b3f215f8f182 POST 400 - 59 /api/users 3.678 ms {"name":"","username":"UNPRENOM"}
+::ffff:127.0.0.1 - - [06/Jul/2025:19:15:10 +0000] 6be0d966-d984-4d5e-9155-b13a140107a2 PUT 400 - 101 /api/users/686ac34b800d2882161f8f5e 3.271 ms {"name":"LO","username":"DE"}
+::ffff:127.0.0.1 - - [06/Jul/2025:19:15:16 +0000] f0f12051-d701-4c9c-969e-0529f4dd1769 PUT 200 - 64 /api/users/686ac34b800d2882161f8f5e 58.105 ms {"name":203,"username":2024}
+::1 - - [06/Jul/2025:19:30:17 +0000] 7fc97d53-222a-4bf7-977f-d3353677fe67 GET 200 - 870 /api/users/ 59.045 ms {}
+::ffff:127.0.0.1 - - [06/Jul/2025:19:30:24 +0000] 2fb2a70e-d48b-4bf7-b103-8ac7e2b41624 POST 400 - 111 /api/users 12.250 ms {"name":2023,"username":202}
+::ffff:127.0.0.1 - - [06/Jul/2025:19:30:42 +0000] 8a6d9ff2-547b-4270-910f-2afd5866dd52 POST 400 - 88 /api/users 4.302 ms {"name":"","username":""}
+::ffff:127.0.0.1 - - [06/Jul/2025:19:30:46 +0000] 3c73657f-fb9a-49e4-b3d0-efa65beee60c POST 400 - 103 /api/users 5.660 ms {"name":"UNNOM","username":""}
+::ffff:127.0.0.1 - - [06/Jul/2025:19:31:11 +0000] 0aca46ab-ee03-466a-9fc4-efe776c3b3a3 POST 400 - 97 /api/users 4.365 ms {"name":"","username":202}
+::1 - - [06/Jul/2025:20:10:20 +0000] f6c03179-7374-4f52-8134-64abea3b0f1a POST 400 - 110 /api/users/ 4.506 ms {"name":111,"username":120}
+::1 - - [06/Jul/2025:20:11:23 +0000] 7238903b-d380-4a7d-b74c-98678efa2018 POST 400 - 110 /api/users/ 19.005 ms {"name":111,"username":120}
+::ffff:127.0.0.1 - - [06/Jul/2025:20:12:02 +0000] 4a0dc22a-5bdc-4dc7-9890-90276efa248c POST 400 - 99 /api/users 13.657 ms {"name":"","username":202}
+::1 - - [06/Jul/2025:20:24:48 +0000] e54669d3-18e6-410c-a1a6-8d23395e4d60 POST 400 - 110 /api/users/ 3.585 ms {"name":11,"username":10}
+::1 - - [06/Jul/2025:21:34:03 +0000] 7d2bc21d-735e-4820-9788-804397af826f POST 400 - 110 /api/users/ 16.247 ms {"name":11,"username":10}
+::1 - - [06/Jul/2025:21:34:12 +0000] 0ad26cad-55f8-40fc-945b-ebf6933564b4 POST 400 - 110 /api/users/ 4.596 ms {"name":11,"username":10}
+::ffff:127.0.0.1 - - [06/Jul/2025:21:45:02 +0000] f4f4d175-c891-4d8e-9a78-7f75b7c9a20e POST 500 - 2042 /api/users 2.558 ms {"name":"Kilo","username":"Neo"}
+::ffff:127.0.0.1 - - [06/Jul/2025:21:45:37 +0000] 2de59f37-5904-4f94-a998-6a4bf3b09097 POST 400 - 111 /api/users 20.401 ms {"name":"Kilo","username":"Neo"}
+::ffff:127.0.0.1 - - [06/Jul/2025:21:46:57 +0000] 541da69c-f045-415a-8e32-0436f3ae6ff4 POST 400 - 111 /api/users 28.673 ms {"name":"Kilo","username":"Neo"}
+::1 - - [06/Jul/2025:21:48:30 +0000] fd7d1c42-8edf-4aa0-8447-b12171a12bd0 POST 400 - 110 /api/users/ 21.142 ms {"name":11,"username":10}
+::ffff:127.0.0.1 - - [06/Jul/2025:21:48:40 +0000] 09cffb06-d47b-4c24-a971-5e714eb95918 POST 400 - 111 /api/users 6.021 ms {"name":"Kilo","username":"Neo"}
+::1 - - [06/Jul/2025:21:50:03 +0000] b1bd3dc7-d4c6-4bf4-a128-f2909caafbc0 POST 400 - 110 /api/users/ 22.774 ms {"name":11,"username":10}
+::ffff:127.0.0.1 - - [06/Jul/2025:21:50:06 +0000] 04443ec0-a089-4674-8a60-dfed87ef6472 POST 400 - 111 /api/users 5.988 ms {"name":"Kilo","username":"Neo"}
+::ffff:127.0.0.1 - - [06/Jul/2025:21:51:46 +0000] 10302983-6a6a-4039-98c7-f857dd3a166b POST 400 - 111 /api/users 15.527 ms {"name":"Kilo","username":"Neo"}
+::ffff:127.0.0.1 - - [06/Jul/2025:21:56:20 +0000] 57dd82bb-58b8-4278-aac2-37ad6117b880 POST 400 - 111 /api/users 13.800 ms {"name":"Kilo","username":"Neo"}
+::ffff:127.0.0.1 - - [06/Jul/2025:21:57:38 +0000] e67b8a2e-0139-4702-9ecb-d313c4408d10 POST 400 - 111 /api/users 15.529 ms {"name":"Kilo","username":"Neo"}
+::ffff:127.0.0.1 - - [06/Jul/2025:21:58:05 +0000] 5f3d9cf2-e870-464c-8603-96186e9a8ff9 POST 400 - 111 /api/users 12.313 ms {"name":"Kilo","username":"Neo"}
+::ffff:127.0.0.1 - - [06/Jul/2025:21:58:13 +0000] 46beeb91-361c-41a1-9672-6291258e9fea POST 400 - 78 /api/users 5.285 ms {"name":2023,"username":202}
+::ffff:127.0.0.1 - - [06/Jul/2025:21:58:58 +0000] 5bb62b5d-844d-4bd2-b565-ed5d8deb9d94 POST 400 - 111 /api/users 14.758 ms {"name":2023,"username":202}
+::ffff:127.0.0.1 - - [06/Jul/2025:21:59:09 +0000] c2c41d78-fdeb-4ff8-b358-e677e8639592 POST 400 - 78 /api/users 3.649 ms {"name":"Kilo","username":"Neo"}
+::ffff:127.0.0.1 - - [06/Jul/2025:21:59:27 +0000] 6962e19a-35e7-4d4e-a1df-8e57433c8429 POST 400 - 99 /api/users 7.495 ms {"name":"","username":202}
+::ffff:127.0.0.1 - - [06/Jul/2025:22:00:11 +0000] 23c4b450-4845-4023-8853-47ae808d4c5e POST 400 - 99 /api/users 13.558 ms {"name":"","username":202}
+::ffff:127.0.0.1 - - [06/Jul/2025:22:00:23 +0000] bad29baa-9321-4e6e-930f-7d505dbe650a POST 200 - 64 /api/users 64.671 ms {"name":"Kilo","username":"Neo"}
+::ffff:127.0.0.1 - - [06/Jul/2025:22:02:16 +0000] f1fa9ac8-533b-4809-bf89-162238813a7a POST 200 - 64 /api/users 55.223 ms {"name":"Kilo","username":"Neo"}
+::1 - - [06/Jul/2025:22:02:39 +0000] 49da15ce-75dd-4b4c-a5c2-651ded516b7e GET 404 - 28 /.well-known/appspecific/com.chrome.devtools.json 0.626 ms {}
+::1 - - [06/Jul/2025:22:02:39 +0000] 2e9dd9b1-9313-45cc-8c33-4c9976cf5a82 GET 200 - 1000 /api/users 71.352 ms {}
+::ffff:127.0.0.1 - - [06/Jul/2025:22:03:28 +0000] 1e133392-1aec-428b-ac47-c65d6a995d6a POST 200 - 64 /api/users 73.775 ms {"name":"Kilo","username":"Neo"}
+::ffff:127.0.0.1 - - [06/Jul/2025:22:03:32 +0000] 0123fdb7-b32a-4896-8099-1b2f943a2232 POST 200 - 64 /api/users 235.808 ms {"name":"Kilo","username":"Neo"}
+::ffff:127.0.0.1 - - [06/Jul/2025:22:03:44 +0000] 3176c27f-0224-4840-9389-6e7aab169130 POST 200 - 64 /api/users 81.619 ms {"name":"Kilo","username":"Neo"}
+::ffff:127.0.0.1 - - [06/Jul/2025:22:08:26 +0000] bed2dd25-72cd-4969-b627-c614e73ab5d0 POST 400 - 111 /api/users 15.827 ms {"name":2023,"username":202}
+::ffff:127.0.0.1 - - [06/Jul/2025:22:08:35 +0000] e4b08a9f-4042-4dbc-9b77-d2ccb9056cee POST 400 - 99 /api/users 10.074 ms {"name":"","username":202}
+::ffff:127.0.0.1 - - [06/Jul/2025:22:08:45 +0000] 49533cb0-d05e-412d-9f54-801535f6a27f POST 400 - 88 /api/users 4.675 ms {"name":"","username":""}
+::ffff:127.0.0.1 - - [06/Jul/2025:22:08:49 +0000] ab6f816a-8f0b-4d7b-8f8f-cece79463725 POST 400 - 88 /api/users 14.683 ms {"name":"","username":""}
+::1 - - [06/Jul/2025:22:08:53 +0000] f94ee95d-c2e3-41ad-95f5-313699f77214 GET 200 - 1195 /api/users 55.133 ms {}
+::ffff:127.0.0.1 - - [06/Jul/2025:22:09:06 +0000] eefea742-d3d8-4a83-9603-913537e27e4c POST 400 - 67 /api/users 31.521 ms {"name":"UNNOM","username":""}
+::ffff:127.0.0.1 - - [06/Jul/2025:22:09:12 +0000] 00f92e5a-8cfa-4262-ab79-60ab653f90aa POST 400 - 59 /api/users 7.546 ms {"name":"","username":"UNPRENOM"}
+::ffff:127.0.0.1 - - [06/Jul/2025:22:38:36 +0000] 84473660-931b-4ea0-aced-8f395b4117f4 POST 200 - 64 /api/users 69.364 ms {"name":"Kilo","username":"Neo"}
+::ffff:127.0.0.1 - - [06/Jul/2025:22:38:41 +0000] 28fb87ff-3694-4696-b98c-e920abe7ceca POST 200 - 64 /api/users 119.357 ms {"name":"Kilo","username":"Neo"}
+::ffff:127.0.0.1 - - [06/Jul/2025:22:38:52 +0000] cf4d5f76-5920-4bbd-a58e-1da45a3fc596 POST 200 - 64 /api/users 72.983 ms {"name":"Kilo","username":"Neo"}
+::ffff:127.0.0.1 - - [06/Jul/2025:22:39:12 +0000] 6358f588-6bdd-4a43-84f6-dec20178385a POST 400 - 111 /api/users 10.602 ms {"name":2023,"username":202}
+::ffff:127.0.0.1 - - [06/Jul/2025:22:39:21 +0000] 9ac857ce-3dca-4bfe-8e64-618381d682a4 POST 400 - 99 /api/users 9.928 ms {"name":"","username":202}
+::ffff:127.0.0.1 - - [06/Jul/2025:22:39:28 +0000] b4de1990-afd4-4945-bcab-2fc8220e0102 POST 400 - 99 /api/users 4.285 ms {"name":"","username":202}
+::ffff:127.0.0.1 - - [06/Jul/2025:22:39:35 +0000] be136f4a-7f82-4335-b6db-10ff80de1460 POST 400 - 88 /api/users 10.826 ms {"name":"","username":""}
+::ffff:127.0.0.1 - - [06/Jul/2025:22:40:50 +0000] fd28e3a4-55cf-4f54-839a-48ad6fa355c4 POST 200 - 64 /api/users 117.166 ms {"name":"Kilo","username":"Neo"}
+::ffff:127.0.0.1 - - [06/Jul/2025:22:40:55 +0000] 9115c724-c6e8-4992-8a76-8901a5cc6d23 POST 200 - 64 /api/users 89.346 ms {"name":"Kilo","username":"Neo"}
+::1 - - [08/Jul/2025:14:17:08 +0000] 9d000293-5392-4372-bd75-afff34e6bffa PUT 404 - 28 /api/users/ 2.475 ms {"name":11,"username":10}
+::1 - - [08/Jul/2025:14:18:19 +0000] 8f7f566d-54f4-42a4-83a5-da23ad8f22d6 PUT 400 - 101 /api/users/686ac34b800d2882161f8f5e 31.158 ms {"name":11,"username":10}
+::1 - - [08/Jul/2025:14:18:31 +0000] 6bb8490e-c120-436e-b819-ed6d2fba29de PUT 400 - 101 /api/users/686ac34b800d2882161f8f5e 2.709 ms {"name":110,"username":102}
+::ffff:127.0.0.1 - - [08/Jul/2025:14:49:46 +0000] 27520bf2-2af4-4781-ace8-4af0ad1a8591 POST 500 - 2055 /api/users 3.867 ms {"name":"Kilo","username":"Neo"}
+::1 - - [08/Jul/2025:14:59:06 +0000] b8160bf0-f1ae-4ca0-89ff-0093f45a6b8f GET 404 - 28 /.well-known/appspecific/com.chrome.devtools.json 2.547 ms {}
+::1 - - [08/Jul/2025:14:59:10 +0000] 0c6377ae-816c-4435-a272-819cb1efe514 GET 200 - 1520 /api/users 235.233 ms {}
+::1 - - [08/Jul/2025:14:59:52 +0000] ff955a82-9155-44e3-a1fe-b16065a2fc52 DELETE 204 - - /api/users/686ac5e546ab4f849a25503b 64.587 ms {}
+::1 - - [08/Jul/2025:14:59:55 +0000] c176b994-0263-40c8-b4a1-9d7af2d4761b DELETE 204 - - /api/users/686ac7aa8d9eaae9c73da9b7 61.580 ms {}
+::1 - - [08/Jul/2025:14:59:56 +0000] eb99e319-7a5e-4c83-a96c-138ed6e499ad DELETE 204 - - /api/users/686ac7ad8d9eaae9c73da9b9 53.912 ms {}
+::1 - - [08/Jul/2025:15:00:04 +0000] 1116fc5c-08a3-4179-be3b-37d64acd28cc DELETE 204 - - /api/users/686ac812343d19e61510f0a7 52.525 ms {}
+::1 - - [08/Jul/2025:15:00:07 +0000] a4c0d633-2a0b-4da2-82b9-729e952a9009 DELETE 204 - - /api/users/686ac4cd800d2882161f8f64 58.813 ms {}
+::1 - - [08/Jul/2025:15:00:08 +0000] 491dc2e5-3a40-4a08-a5f8-d04eeef7f956 DELETE 204 - - /api/users/686ac34b800d2882161f8f5e 52.675 ms {}
+::1 - - [08/Jul/2025:15:00:09 +0000] 70bac393-dbb1-47fb-ba16-4e4f909b5d21 DELETE 204 - - /api/users/686abc18800d2882161f8f5c 51.149 ms {}
+::1 - - [08/Jul/2025:15:00:14 +0000] 0e28edfc-adc6-4f2a-9424-fc20fdd49899 DELETE 204 - - /api/users/686a8ed843eaafafbfc66551 51.831 ms {}
+::1 - - [08/Jul/2025:15:00:17 +0000] 959eaad3-263e-4024-bb95-c44894c8538d DELETE 204 - - /api/users/686afb77085909d4e162d329 52.362 ms {}
+::1 - - [08/Jul/2025:15:00:18 +0000] 7da86ac5-2f7e-4829-9119-5e3cfd9da4ae DELETE 204 - - /api/users/686afafc0eaab66fdfa53801 76.002 ms {}
+::1 - - [08/Jul/2025:15:00:18 +0000] e9086cd8-3365-416b-afd3-a08427b87806 DELETE 204 - - /api/users/686afb72085909d4e162d326 58.960 ms {}
+::1 - - [08/Jul/2025:15:00:19 +0000] b3a9c34b-1c66-4c63-a08c-2518cefd4291 DELETE 204 - - /api/users/686afaf070bc5c74216347b2 48.930 ms {}
+::1 - - [08/Jul/2025:15:00:20 +0000] ce796b4e-3bfc-4085-8cc9-2d717ab85d13 DELETE 204 - - /api/users/686afaec70bc5c74216347af 50.165 ms {}
+::1 - - [08/Jul/2025:15:00:21 +0000] b2d2242b-18ea-43e0-b504-03853b85111a DELETE 204 - - /api/users/686af2c09633f2ea97172c5a 159.638 ms {}
+::1 - - [08/Jul/2025:15:00:21 +0000] da0f470b-aa84-49e0-82af-3e7fa88e188a DELETE 204 - - /api/users/686af2b49633f2ea97172c57 76.456 ms {}
+::1 - - [08/Jul/2025:15:00:22 +0000] 572e1932-3d97-4509-b5f3-189ea503fa25 DELETE 204 - - /api/users/686af2b09633f2ea97172c54 95.754 ms {}
+::1 - - [08/Jul/2025:15:00:22 +0000] 7508f45e-d20e-4b7a-a33d-053c0dcca2c2 DELETE 204 - - /api/users/686af2683d8f351a6d1943a6 52.588 ms {}
+::1 - - [08/Jul/2025:15:00:38 +0000] 2613e207-de60-40f6-8b21-92f1793f2fd5 POST 200 - 71 /api/users 64.635 ms {"id":"0xmcunq8ho","name":"Tania","username":"SskettOPM"}
+::1 - - [08/Jul/2025:15:00:53 +0000] b1a54067-4e2f-49eb-ab41-426f91451c1f GET 404 - 28 /.well-known/appspecific/com.chrome.devtools.json 0.354 ms {}
+::1 - - [08/Jul/2025:15:00:53 +0000] 28c86e58-55a7-471a-85d8-3a487777ba2c GET 200 - 489 /api/users 48.432 ms {}
+::1 - - [08/Jul/2025:15:08:11 +0000] 48c1edec-2fae-4d02-9957-d7784084e5ed POST 200 - 66 /api/users 90.440 ms {"id":"0xmcunzxzg","name":"Tania","username":"Kimo"}
+::1 - - [08/Jul/2025:15:09:05 +0000] c388a66a-f98c-49d1-83bc-34ec88cd7c78 POST 500 - 1201 /api/users 175.002 ms {"name":"Tania","username":"SskettOPM"}
+::1 - - [08/Jul/2025:15:15:11 +0000] 892ecd79-ec33-4fee-b7c1-eaaf46947ddc POST 500 - 1201 /api/users 91.689 ms {"name":"Tania","username":"SskettOPM"}
+::1 - - [08/Jul/2025:15:17:24 +0000] 9b302318-5458-445a-b125-a2a518cb81cb POST 500 - 1201 /api/users 87.165 ms {"name":"Tania","username":"SskettOPM"}
+::1 - - [08/Jul/2025:15:18:31 +0000] ea50bed2-9f90-4333-9fee-6758ef09447c DELETE 204 - - /api/users/686d32967e6476dc549718be 760.386 ms {}
+::1 - - [08/Jul/2025:15:18:34 +0000] 625e993c-7de2-42d3-a674-92acea9d84f6 GET 404 - 28 /.well-known/appspecific/com.chrome.devtools.json 3.215 ms {}
+::1 - - [08/Jul/2025:15:18:34 +0000] 8822d30f-5736-4c34-b0ed-f977b7bed67d GET 200 - 484 /api/users 56.374 ms {}
+::1 - - [08/Jul/2025:15:18:42 +0000] a18f9814-d1eb-4a85-8ae1-20d3519daf04 DELETE 204 - - /api/users/686d345beff65e7a417ee389 53.743 ms {}
+::1 - - [08/Jul/2025:15:18:44 +0000] 4bc5aad3-6989-43e6-a8b6-41bba784819f GET 404 - 28 /.well-known/appspecific/com.chrome.devtools.json 0.505 ms {}
+::1 - - [08/Jul/2025:15:18:45 +0000] 2204cedd-c95d-48f9-9660-4d417bf281ac GET 200 - 417 /api/users 51.168 ms {}
+::1 - - [08/Jul/2025:15:19:00 +0000] cc04819e-7163-4c7d-a2e1-4fbacc543815 POST 200 - 66 /api/users 72.228 ms {"id":"0xmcuodu7x","name":"Tania","username":"Kimo"}
+::1 - - [08/Jul/2025:15:19:09 +0000] dd79579b-d0d4-4d27-af08-250345265115 POST 200 - 74 /api/users 105.774 ms {"id":"0xmcuoe1st","name":"Tania","username":"BOUCHOUROINE"}
+::1 - - [08/Jul/2025:15:19:19 +0000] f68a293a-1ac9-4425-85c6-1007e3f66038 DELETE 204 - - /api/users/686d36ed388d74dcbcd464d1 50.014 ms {}
+::1 - - [08/Jul/2025:15:19:21 +0000] 1fe138e6-f89c-41f4-805e-8946170623cf DELETE 204 - - /api/users/686d36e3388d74dcbcd464ce 50.814 ms {}
+::1 - - [08/Jul/2025:15:19:58 +0000] 630494ec-350d-4e18-a660-4f47e4d12e63 GET 404 - 28 /.well-known/appspecific/com.chrome.devtools.json 3.153 ms {}
+::1 - - [08/Jul/2025:15:19:58 +0000] 63980f07-0ec4-4627-9ad1-b57d5203651e GET 200 - 417 /api/users 74.581 ms {}
+::1 - - [08/Jul/2025:15:27:58 +0000] b9d0a267-06e5-48de-b513-384cb5f8f477 GET 404 - 28 /.well-known/appspecific/com.chrome.devtools.json 0.623 ms {}
+::1 - - [08/Jul/2025:15:27:58 +0000] 25ee05fa-95bb-46b3-b7fe-14c1f88dd01e GET 304 - - /api/users 49.827 ms {}
+::1 - - [08/Jul/2025:15:30:30 +0000] c8dc8d11-d7f8-4077-b87c-3cfe426f86d6 GET 404 - 28 /.well-known/appspecific/com.chrome.devtools.json 0.329 ms {}
+::1 - - [08/Jul/2025:15:30:30 +0000] 6cc2d7ca-1bc2-49c5-9f97-ca448245de0b GET 304 - - /api/users 48.085 ms {}
+::1 - - [09/Jul/2025:15:11:33 +0000] cbcea993-b12f-4eb6-b8de-33983dbf8717 GET 404 - 28 /.well-known/appspecific/com.chrome.devtools.json 3.624 ms {}
+::1 - - [09/Jul/2025:15:11:33 +0000] ce227685-0853-4b86-a02d-2be0f71a032d GET 304 - - /api/users 81.934 ms {}
+::1 - - [09/Jul/2025:15:11:48 +0000] 025d619c-8a73-4c18-96e4-9c8894de7ad5 POST 500 - 1195 /api/users 69.699 ms {"id":"0xmcw3kezy","name":"Tania","username":"Neo"}
+::1 - - [09/Jul/2025:15:13:27 +0000] 58742dbd-ed8a-4a1f-b42b-b5e8a6128a98 POST 500 - 1198 /api/users 84.044 ms {"id":"0xmcw3mk3p","name":"Tania","username":"Sskett"}
+::1 - - [09/Jul/2025:15:15:50 +0000] 58b02c2d-e557-4c26-a0d9-947c5d03ca8d POST 500 - 1198 /api/users 85.368 ms {"id":"0xmcw3pma5","name":"HTML is Easy","username":"Sskett"}
+::1 - - [09/Jul/2025:15:20:18 +0000] 6078c1fd-5536-4749-b776-890aef6bd2c9 POST 400 - 35 /api/users 614.604 ms {"id":"0xmcw3vcau","name":"Tania","username":"SskettO"}
+::1 - - [09/Jul/2025:15:21:51 +0000] 727ec862-622f-4b0c-beb6-aef65a098ee6 POST 200 - 83 /api/users 70.199 ms {"id":"0xmcw3xdie","name":"Abdoul BOUCHOUROINE","username":"SskettO"}
+::1 - - [09/Jul/2025:15:22:53 +0000] cee26dd8-7bc3-4fde-acea-6d6e9c1953de POST 500 - 1198 /api/users 95.830 ms {"id":"0xmcw3ypdi","name":"Tania","username":"Sskett"}
+::1 - - [09/Jul/2025:15:23:49 +0000] aa7303f9-e06c-4cdd-83e8-99c3f4bb51cc POST 500 - 1198 /api/users 101.634 ms {"id":"0xmcw3zwcu","name":"Tania","username":"Sskett"}
+::1 - - [09/Jul/2025:15:24:27 +0000] ce3c64fd-da80-46a6-a4ea-d092e4039311 POST 400 - 35 /api/users 203.010 ms {"id":"0xmcw40pt2","name":"Tania","username":"Sskett"}
+::1 - - [09/Jul/2025:15:27:20 +0000] fa70d451-b0df-4490-805d-1ee9249da331 POST 500 - 1199 /api/users 335.477 ms {"id":"0xmcw44ezq","name":"Tania","username":"SskettO"}
+::1 - - [09/Jul/2025:15:28:58 +0000] 6209e2bd-fdab-442e-9473-65c05e9d3219 POST 500 - 1198 /api/users 49.005 ms {"id":"0xmcw46j1i","name":"Tania","username":"Sskett"}
+::1 - - [09/Jul/2025:15:29:54 +0000] 18833d2c-da43-483e-8608-0c515b08ac36 POST 400 - 35 /api/users 84.842 ms {"id":"0xmcw47pd2","name":"Tania","username":"Sskett"}
+::1 - - [09/Jul/2025:15:30:43 +0000] 424d132e-012a-49e3-b871-f60936ce63c0 POST 400 - 35 /api/users 51.333 ms {"name":"Tania","username":"Sskett"}
+::1 - - [09/Jul/2025:15:31:24 +0000] f4041252-dbe8-4b8c-9d56-25417d80bd91 POST 400 - 35 /api/users 98.857 ms {"name":"Tania","username":"Sskett"}
+::ffff:127.0.0.1 - - [09/Jul/2025:15:32:13 +0000] 08c782f9-04ce-4f4b-b666-b37b9a6e404d POST 400 - 39 /api/users 49.750 ms {"name":"Kilo","username":"Neo"}
+::ffff:127.0.0.1 - - [09/Jul/2025:15:32:35 +0000] f7f59f6b-a51b-4c03-b36f-26730e42c8d8 PUT 200 - 75 /api/users/686ac519800d2882161f8f67 54.110 ms {"name":"Kilo Mbili","username":"Neopolis"}
+::ffff:127.0.0.1 - - [09/Jul/2025:15:33:19 +0000] 1439385a-e268-4164-801c-8a9e51231db5 PUT 400 - 35 /api/users/686ac519800d2882161f8f67 53.969 ms {"name":"Kilo Mbili","username":"Neo"}
+::1 - - [09/Jul/2025:15:33:57 +0000] 926ecd31-11af-4203-88fe-ecfe0607049c POST 500 - 1198 /api/users 150.107 ms {"name":"Tania","username":"Sskett"}
+::1 - - [09/Jul/2025:15:35:10 +0000] cd738fb4-1dff-4633-bb83-6f16cc2bc4bf POST 400 - 35 /api/users 75.111 ms {"name":"Tania","username":"Sskett"}
+::1 - - [09/Jul/2025:15:35:26 +0000] 0e218ae0-5a38-4970-8e26-752a2dbbfe1b POST 400 - 39 /api/users 818.537 ms {"name":"Tania","username":"Sskett"}
+::ffff:127.0.0.1 - - [09/Jul/2025:15:35:38 +0000] e5b2ce3d-2248-4100-95da-57ec93a1ebb1 POST 400 - 39 /api/users 55.346 ms {"name":"Tania","username":"Sskett"}
+::ffff:127.0.0.1 - - [09/Jul/2025:15:35:43 +0000] 45dafabd-3b2c-4627-892b-291030cfa0fe PUT 400 - 39 /api/users/686ac519800d2882161f8f67 137.611 ms {"name":"Kilo Mbili","username":"Neo"}
+::ffff:127.0.0.1 - - [09/Jul/2025:15:35:57 +0000] 42e82b60-5fa1-4b82-befc-4188675c487e PUT 400 - 39 /api/users/686ac519800d2882161f8f67 72.094 ms {"name":"Kilo Mbili","username":"Neo"}
+::1 - - [09/Jul/2025:15:36:05 +0000] 6fec4301-8adc-428e-adb7-178a4df5b0ce POST 400 - 39 /api/users 189.540 ms {"name":"Tania","username":"Sskett"}
+::1 - - [09/Jul/2025:15:46:49 +0000] f326d09e-55b5-40f9-8241-4e7c4fdeea00 GET 200 - 501 /api/users 105.348 ms {}
+::1 - - [09/Jul/2025:15:46:49 +0000] 02775b72-b33a-49f4-ab87-3a37f3b7ce6f GET 304 - - /api/users 90.777 ms {}
+::1 - - [09/Jul/2025:15:54:48 +0000] 4efbc201-182a-4eed-a84e-8ed476cd177e GET 304 - - /api/users 153.885 ms {}
+::1 - - [09/Jul/2025:15:54:48 +0000] 28100c45-b7b2-48d2-b0e9-6920163f5f7d GET 304 - - /api/users 85.995 ms {}
+::1 - - [09/Jul/2025:16:32:30 +0000] 6e0f60bb-8f93-475d-bbc3-ca3346c18836 GET 304 - - /api/users 54.508 ms {}
+::1 - - [09/Jul/2025:16:32:39 +0000] e90c1515-bf21-4959-8948-ffd8a358efea GET 304 - - /api/users 49.263 ms {}
+::1 - - [09/Jul/2025:16:32:39 +0000] 86ec2575-4e15-46c7-b4e3-1c199da63ea9 GET 304 - - /api/users 47.593 ms {}
+::1 - - [09/Jul/2025:16:35:25 +0000] 4a15761c-e879-4645-a706-2154b419c070 GET 304 - - /api/users 47.815 ms {}
+::1 - - [09/Jul/2025:16:36:50 +0000] 83ba73f4-e3c3-4019-930c-3fa075526d1d GET 304 - - /api/users 48.718 ms {}
+::1 - - [09/Jul/2025:16:37:00 +0000] d6f5176d-5723-4822-952d-85b63bf6d8b0 GET 304 - - /api/users 51.525 ms {}
+::1 - - [09/Jul/2025:16:37:24 +0000] 0bcf0f19-4ee4-413f-857d-9bcbc7a0e7fc GET 304 - - /api/users 47.845 ms {}
+::1 - - [09/Jul/2025:16:37:36 +0000] fb2e9faf-efac-472e-876b-a8283354e21b GET 304 - - /api/users 46.509 ms {}
+::1 - - [09/Jul/2025:16:40:02 +0000] 23cee8d3-dbf4-4fa3-b457-f641e5c453cf GET 304 - - /api/users 48.002 ms {}
+::1 - - [09/Jul/2025:16:40:22 +0000] a74e6581-8552-46ab-a955-94e6b1ee6037 GET 304 - - /api/users 51.721 ms {}
+::1 - - [09/Jul/2025:16:40:34 +0000] fa98c10d-f397-4521-a7e1-41b595c1ad92 GET 304 - - /api/users 48.130 ms {}
+::1 - - [09/Jul/2025:16:43:09 +0000] 583dadc8-dfe6-47ab-96ed-7004ec1ab9f5 GET 304 - - /api/users 71.279 ms {}
+::1 - - [09/Jul/2025:16:57:18 +0000] cf5c197c-0eb6-4fb1-9e22-880bea93472a GET 304 - - /api/users 67.241 ms {}
+::1 - - [09/Jul/2025:16:57:33 +0000] c81a9737-3ab8-4906-a9d6-de6f7624226d GET 304 - - /api/users 46.447 ms {}
+::1 - - [09/Jul/2025:16:57:53 +0000] 441ecf36-fcaf-49f7-be8a-938a50b1abf6 GET 304 - - /api/users 47.688 ms {}
+::1 - - [09/Jul/2025:16:58:14 +0000] ec085128-ec16-4c4e-bfc3-071e908e2194 GET 304 - - /api/users 48.452 ms {}
+::1 - - [09/Jul/2025:16:59:13 +0000] f6d96611-bbb9-490c-8b94-1758136f2b33 GET 304 - - /api/users 49.504 ms {}
+::1 - - [09/Jul/2025:16:59:19 +0000] b71cfd10-7626-41e0-9dc8-6e36f83f9249 GET 304 - - /api/users 50.837 ms {}
+::1 - - [09/Jul/2025:16:59:22 +0000] f7e10d19-0312-4ac8-9ff1-049f0efdbf90 GET 304 - - /api/users 51.384 ms {}
+::1 - - [09/Jul/2025:16:59:22 +0000] 7ae4d8fd-6d2a-46a5-96d1-1d7b6563f6db GET 304 - - /api/users 49.228 ms {}
+::1 - - [09/Jul/2025:16:59:24 +0000] 6a505c95-3cd8-4f8e-8df9-c50bd448fde7 DELETE 204 - - /api/users/686043c9a0da6d99d187ece4 64.567 ms {}
+::1 - - [09/Jul/2025:17:00:00 +0000] f877fb49-2b14-4eac-86b1-f6073c5a9fc9 GET 200 - 428 /api/users 48.787 ms {}
+::1 - - [09/Jul/2025:17:00:00 +0000] eeb2643b-7052-46eb-8287-ab551252e372 GET 304 - - /api/users 50.018 ms {}
+::1 - - [09/Jul/2025:17:00:12 +0000] 4f169b77-20f2-425b-a0a3-2195e5945b63 GET 304 - - /api/users 166.297 ms {}
+::1 - - [09/Jul/2025:17:00:12 +0000] 1714e046-b07c-494f-85a4-366f7d0b3f30 GET 304 - - /api/users 118.005 ms {}
+::1 - - [09/Jul/2025:17:00:15 +0000] 0e5dc54d-6f10-4011-aaed-a75024be5ac1 DELETE 204 - - /api/users/68642ba9fdb918b32fe495bf 53.275 ms {}
+::1 - - [09/Jul/2025:17:00:19 +0000] b6e936f8-2f03-4ec8-ba9f-c97d7c72ad30 GET 200 - 361 /api/users 48.318 ms {}
+::1 - - [09/Jul/2025:17:00:19 +0000] 452b23cb-5290-49e3-8b09-8ad782760585 GET 304 - - /api/users 47.175 ms {}
+::1 - - [09/Jul/2025:17:00:26 +0000] cf5473ae-b004-46b8-9d9f-820131e236ce GET 304 - - /api/users 46.917 ms {}
+::1 - - [09/Jul/2025:17:00:30 +0000] 7670bda9-ce8f-40ac-b3f8-832a5fb8d145 GET 304 - - /api/users 52.046 ms {}
+::1 - - [09/Jul/2025:17:00:30 +0000] bdd1431b-6a5f-4aac-82d2-5bcbbef1f0b9 GET 304 - - /api/users 47.517 ms {}
+::1 - - [09/Jul/2025:17:00:38 +0000] 693a379c-7c60-4ca6-8fd4-bd09e2916369 GET 304 - - /api/users 50.738 ms {}
+::1 - - [09/Jul/2025:17:00:39 +0000] 3ed0e91c-0e0d-4772-9bdc-f14665041a1c GET 304 - - /api/users 57.201 ms {}
+::1 - - [09/Jul/2025:17:00:43 +0000] 9679cf0b-9357-42aa-9c88-19b2a50beef9 DELETE 204 - - /api/users/68642aeffdb918b32fe495bd 141.150 ms {}
+::1 - - [09/Jul/2025:17:00:47 +0000] cb36c789-119f-472c-8326-29c410f72eb7 GET 200 - 292 /api/users 52.457 ms {}
+::1 - - [09/Jul/2025:17:00:47 +0000] 223077df-1216-4b52-86cf-09d19cdb786b GET 304 - - /api/users 46.684 ms {}
+::1 - - [09/Jul/2025:17:00:54 +0000] 62bef47c-d329-4619-95e6-2530ecb46e94 DELETE 204 - - /api/users/686e890fa5deb9cfb5bdd118 63.049 ms {}
+::1 - - [09/Jul/2025:17:02:03 +0000] be2fb5ab-1bab-453a-9ee7-c65b05478919 GET 200 - 208 /api/users 153.656 ms {}
+::1 - - [09/Jul/2025:17:02:03 +0000] 001b2a8d-0e33-400d-9638-b5be07831622 GET 304 - - /api/users 101.859 ms {}
+::1 - - [09/Jul/2025:17:02:43 +0000] e17d4eb1-6a89-461a-a69e-54b6a7986eee POST 200 - 71 /api/users 78.672 ms {"id":"0xmcw7j2ze","name":"Tania","username":"SskettOPM"}
+::1 - - [09/Jul/2025:17:03:36 +0000] 70ca00c4-154b-41f7-a7eb-d8be7b5abb82 GET 200 - 280 /api/users 52.375 ms {}
+::1 - - [09/Jul/2025:17:03:36 +0000] 0cf5bb24-9dc3-43cb-9ce1-bc2339d36aa1 GET 304 - - /api/users 52.329 ms {}
+::1 - - [09/Jul/2025:17:03:39 +0000] 6b49497f-09dd-4e77-800b-5d431e5aebb0 GET 304 - - /api/users 43.807 ms {}
+::1 - - [09/Jul/2025:17:03:53 +0000] 63a8afcd-9766-459d-9c0c-04bc10feed60 DELETE 204 - - /api/users/686ea0b369545e808bdd72fb 48.684 ms {}
+::1 - - [09/Jul/2025:17:04:06 +0000] b3516077-677d-4c8d-a87f-90b9d4590245 GET 200 - 208 /api/users 50.906 ms {}
+::1 - - [09/Jul/2025:17:04:06 +0000] 47f46f5c-1569-44b5-8b82-b82ac887eaec GET 304 - - /api/users 44.206 ms {}
+::1 - - [09/Jul/2025:17:04:11 +0000] 8cf2a3b3-694a-48ca-b4a9-a89bead724f5 POST 400 - 39 /api/users 60.796 ms {"id":"0xmcw7kz82","name":"Tania","username":"BOUCHOUROINE"}
+::1 - - [09/Jul/2025:17:04:35 +0000] aa987cea-52c5-4f98-b42b-95fe83389251 POST 400 - 76 /api/users 3.299 ms {"id":"0xmcw7lhm1","name":"Tania","username":"20"}
+::1 - - [09/Jul/2025:17:04:50 +0000] 1e8ecf63-a8b1-4fea-9a33-40782dd20448 POST 500 - 437 /api/users 47.794 ms {"id":"0xmcw7lt42","name":"Tania","username":"SskettO"}
+::1 - - [09/Jul/2025:17:04:58 +0000] 464d2a11-3adf-4a35-ad04-4ce629d3f5f3 POST 400 - 39 /api/users 55.368 ms {"id":"0xmcw7lz42","name":"Tania","username":"Sskett"}
+::1 - - [09/Jul/2025:17:05:04 +0000] 68e46eea-ba40-4116-a0d1-e50cef2bcf76 POST 500 - 437 /api/users 47.347 ms {"id":"0xmcw7m3o9","name":"Tania","username":"SskettO"}
+::1 - - [09/Jul/2025:17:05:26 +0000] ac2f3a7c-7595-4c3b-a9be-bb82cddd8bb6 PUT 200 - 65 /api/users/686a8f5743eaafafbfc66553 72.224 ms {"id":"686a8f5743eaafafbfc66553","name":"Nia","username":"Ketto"}
+::1 - - [09/Jul/2025:17:05:34 +0000] 50feea49-674b-4936-8b7a-60bb50bcaba1 PUT 400 - 72 /api/users/686a8f5743eaafafbfc66553 1.371 ms {"id":"686a8f5743eaafafbfc66553","name":"Nia","username":"Ketto7"}
+::1 - - [09/Jul/2025:17:05:53 +0000] 3cb86d07-376b-4871-9a8c-6d449642903c PUT 200 - 66 /api/users/686a8f5743eaafafbfc66553 147.428 ms {"id":"686a8f5743eaafafbfc66553","name":"Nia","username":"KettoL"}
+::1 - - [09/Jul/2025:17:06:01 +0000] ec27ed7a-8de8-47af-bfe5-30e79bb0f31d PUT 200 - 65 /api/users/686a8f5743eaafafbfc66553 53.345 ms {"id":"686a8f5743eaafafbfc66553","name":"Nia","username":"Ketto"}
+::1 - - [09/Jul/2025:17:06:47 +0000] 95f04843-cbf2-4667-a3d6-c24bf52bc87c GET 200 - 283 /api/users 49.833 ms {}
+::1 - - [09/Jul/2025:17:06:47 +0000] 6fafcba3-0a42-4aaa-87ea-8708a7cf6bb9 GET 304 - - /api/users 46.809 ms {}
+::1 - - [09/Jul/2025:17:06:55 +0000] a1609d09-7e50-4154-a02f-436e50f29208 PUT 200 - 75 /api/users/686ea10b69545e808bdd7304 56.405 ms {"id":"686ea10b69545e808bdd7304","name":"TaniaO","username":"BOUCHOUROINE"}
+::1 - - [09/Jul/2025:17:07:44 +0000] c7fe08ba-4fa8-4685-b076-b87fbff15c11 PUT 200 - 67 /api/users/686a8f5743eaafafbfc66553 108.983 ms {"id":"686a8f5743eaafafbfc66553","name":"Nia45","username":"Ketto"}
+::1 - - [09/Jul/2025:17:07:54 +0000] 4c726604-ff93-463f-9587-b4c8d3785cf6 PUT 200 - 65 /api/users/686a8f5743eaafafbfc66553 102.960 ms {"id":"686a8f5743eaafafbfc66553","name":"Nia","username":"Ketto"}
+::1 - - [09/Jul/2025:17:08:20 +0000] 1d322bdc-3db3-4eb0-ad7c-b8671ce2d2d7 POST 500 - 437 /api/users 46.082 ms {"id":"0xmcw7qao2","name":"Tania","username":"Kimo"}
+::1 - - [09/Jul/2025:17:09:05 +0000] 3a4cdd46-bfcb-4799-974c-e87cae5fdc83 GET 200 - 351 /api/users 51.169 ms {}
+::1 - - [09/Jul/2025:17:09:06 +0000] b285d652-1f09-481b-a63f-7f4cec0e1f83 POST 400 - 39 /api/users 45.171 ms {"id":"686a8f5743eaafafbfc66553","name":"Nia45","username":"Ketto"}
+::1 - - [09/Jul/2025:17:09:17 +0000] 08e6b40c-bc2d-436d-a8d4-01763bb68dac POST 500 - 437 /api/users 46.255 ms {"id":"0xmcw7rj15","name":"HTML is Easy","username":"SskettO"}
+::1 - - [09/Jul/2025:17:10:03 +0000] f5f98e49-4552-45d5-a2f5-66d63cf8bdfe PUT 200 - 67 /api/users/686a8f5743eaafafbfc66553 53.526 ms {"id":"686a8f5743eaafafbfc66553","name":"Nia45","username":"Ketto"}
+::1 - - [09/Jul/2025:17:10:22 +0000] b2ece3f0-9ad8-461e-b3eb-f69ff9f1db0a POST 400 - 39 /api/users 119.267 ms {"name":"Tania20","username":"Sskett"}
+::1 - - [09/Jul/2025:17:11:23 +0000] 55a6bb0c-2111-4aca-ab83-dda2a76d5608 GET 200 - 501 /api/users 48.190 ms {}
+::1 - - [09/Jul/2025:17:11:27 +0000] 536ea1a9-9d9c-466c-9d78-f12b0219a542 PUT 200 - 67 /api/users/686a8f5743eaafafbfc66553 54.258 ms {"id":"686a8f5743eaafafbfc66553","name":"Nia45","username":"Ketto"}
+::1 - - [09/Jul/2025:17:11:35 +0000] 5f2d8cf5-780d-4928-8f0b-6d5dd08e760d PUT 200 - 65 /api/users/686a8f5743eaafafbfc66553 51.591 ms {"id":"686a8f5743eaafafbfc66553","name":"Nia","username":"Ketto"}
+::1 - - [09/Jul/2025:17:12:49 +0000] 22f1e0da-c411-42a3-a6d2-061f51688928 POST 400 - 39 /api/users 47.934 ms {"id":"0xmcw7w2lm","name":"Nia20","username":"Kimo"}
+::1 - - [09/Jul/2025:17:12:57 +0000] 93290914-7c67-43a3-a0b2-d037a631cbb2 POST 400 - 39 /api/users 81.526 ms {"id":"0xmcw7w8ua","name":"Tania","username":"Kimo"}
+::1 - - [09/Jul/2025:17:13:10 +0000] 28e8cc2f-a479-4f4a-acbc-3dab64b7cb91 POST 400 - 76 /api/users 3.225 ms {"id":"0xmcw7wj0z","name":"Tania","username":"20"}
+::1 - - [13/Jul/2025:08:32:14 +0000] f69884b6-bb45-49b7-8cd2-a8177bf36d0f GET 200 - 499 /api/users 74.456 ms {}
+::1 - - [13/Jul/2025:08:32:15 +0000] ce440c60-6bf2-4c02-882b-bc645535d6ec GET 200 - 499 /api/users 52.405 ms {}
+::1 - - [13/Jul/2025:08:32:15 +0000] 71d3c695-803a-468b-b5c8-57f748749856 GET 304 - - /api/users 47.107 ms {}
+::1 - - [13/Jul/2025:08:32:34 +0000] 7c2af3f8-2869-408e-b118-85f491ff977a PUT 200 - 65 /api/users/686a8f5743eaafafbfc66553 105.067 ms {"id":"686a8f5743eaafafbfc66553","name":"Nia","username":"Ketto"}
+::1 - - [13/Jul/2025:08:32:51 +0000] b51d68ad-4bcc-49d1-a26e-b464e3ee5219 PUT 200 - 76 /api/users/686ac519800d2882161f8f67 169.463 ms {"id":"686ac519800d2882161f8f67","name":"Kilo Mbili","username":"Neopoliso"}
+::1 - - [13/Jul/2025:08:52:01 +0000] d425dfb4-8811-4dd3-85e6-0ef111076289 POST 400 - 111 /api/users 14.872 ms {"id":"0xmd1frfq6","name":"4562","username":"123"}
+::ffff:127.0.0.1 - - [13/Jul/2025:08:53:25 +0000] 69024210-9eaf-45e4-9c85-6a1138d5ea9e POST 400 - 111 /api/users 5.514 ms {"name":2023,"username":202}
+::ffff:127.0.0.1 - - [13/Jul/2025:08:54:17 +0000] 574ccff0-86e9-4d04-a5a9-3cf46a947b7e POST 400 - 88 /api/users 4.753 ms {"name":"","username":""}
+::1 - - [13/Jul/2025:12:05:56 +0000] f6f1b027-b05b-4af9-a32a-b3b2618dfe59 POST 400 - 39 /api/users 102.192 ms {"id":"0xmd1motpa","name":"Tania","username":"Sskett"}
+::1 - - [13/Jul/2025:12:06:30 +0000] 7fbc0386-2ebb-4b94-9bca-e0bb45477a9a POST 400 - 39 /api/users 56.402 ms {"id":"0xmd1mpjme","name":"Tania","username":"Kimo"}
+::1 - - [13/Jul/2025:12:06:48 +0000] 2ca51989-0b86-4b7a-8dff-e883819fe289 POST 400 - 39 /api/users 51.115 ms {"id":"0xmd1mpy4u","name":"Tania","username":"BOUCHOUROINE"}
+::1 - - [13/Jul/2025:12:07:01 +0000] 762f43b6-6405-4bd0-849a-bd227e784291 POST 400 - 39 /api/users 49.045 ms {"id":"0xmd1mq85q","name":"HTML is Easy","username":"BOUCHOUROINE"}
+::1 - - [13/Jul/2025:12:07:06 +0000] 283f1730-cbf2-45de-9073-73041867320a GET 200 - 500 /api/users 183.966 ms {}
+::1 - - [13/Jul/2025:12:07:06 +0000] 41089325-1ad5-4893-9a6e-3d48d4dd4481 GET 304 - - /api/users 100.667 ms {}
+::1 - - [13/Jul/2025:12:07:18 +0000] 30c4aaaa-9634-4998-9b0c-e8249597229a POST 400 - 39 /api/users 49.533 ms {"id":"0xmd1mqks7","name":"TaniaNON","username":"Ketto"}
+::1 - - [13/Jul/2025:12:16:00 +0000] 237926a7-b7d9-48b8-9c63-14f6f149000c POST 500 - 437 /api/users 154.397 ms {"id":"0xmd1n1rpb","name":"Tania","username":"Nio"}
+::1 - - [13/Jul/2025:12:17:45 +0000] 99780d49-37f3-4641-b8f8-680231c576bf POST 500 - 437 /api/users 51.949 ms {"id":"0xmd1n40j3","name":"Nia","username":"Nio"}
+::ffff:127.0.0.1 - - [13/Jul/2025:12:18:40 +0000] 84edaabe-6ac6-4044-a23b-7af8b8f22d51 POST 400 - 39 /api/users 49.210 ms {"name":"Kilo","username":"Neo"}
+::ffff:127.0.0.1 - - [13/Jul/2025:12:18:47 +0000] 17978128-d1f7-473a-9e83-3dda6b60f3a8 POST 400 - 67 /api/users 9.448 ms {"name":"UNNOM","username":""}
+::ffff:127.0.0.1 - - [13/Jul/2025:12:18:52 +0000] 6e1bc7d9-604f-4022-8891-83105ec09628 POST 400 - 59 /api/users 6.572 ms {"name":"","username":"UNPRENOM"}
+::ffff:127.0.0.1 - - [13/Jul/2025:12:19:15 +0000] c111a7dc-7e8d-485d-ad06-1f6d1a912b48 POST 500 - 437 /api/users 48.313 ms {"name":"Nia","username":"Nio"}
+::1 - - [13/Jul/2025:12:19:42 +0000] ae71c866-a39b-4daa-ad3b-f9e5d10a6e94 GET 200 - 500 /api/users 60.916 ms {}
+::1 - - [13/Jul/2025:12:48:19 +0000] b91c9afc-abd1-4d86-b668-446d8d4e36c5 POST 500 - 437 /api/users 47.225 ms {"id":"0xmd1o7bk0","name":"Pol","username":"Kol"}
+::1 - - [13/Jul/2025:12:52:14 +0000] 56c66b9d-b5d3-4774-b7f1-b1814e291c4d POST 400 - 39 /api/users 109.087 ms {"id":"0xmd1ocdfk","name":"Nia","username":"Tao"}
+::1 - - [13/Jul/2025:12:52:44 +0000] ddeb23f6-034e-4b98-bdaa-34463038caf5 POST 500 - 437 /api/users 50.618 ms {"id":"0xmd1od0bc","name":"Tan","username":"Mok"}
+::ffff:127.0.0.1 - - [13/Jul/2025:12:53:28 +0000] 7663396e-0f9a-4c2c-9133-7e11de546060 POST 500 - 437 /api/users 54.517 ms {"name":"Nia","username":"Nio"}
+::ffff:127.0.0.1 - - [13/Jul/2025:12:55:38 +0000] 30d486c2-468d-4441-874a-e1eb5d800b29 POST 500 - 437 /api/users 49.902 ms {"name":"Nia","username":"Nio"}
+::1 - - [13/Jul/2025:12:58:11 +0000] 4d3b9717-e4fb-47b0-bd6d-0b14a4365c52 POST 500 - 437 /api/users 49.026 ms {"id":"0xmd1ok0ps","name":"Nia","username":"NOn"}
+::1 - - [13/Jul/2025:13:03:02 +0000] db4d6f36-94e9-4846-96b2-3b9d5339dfeb POST 400 - 39 /api/users 68.354 ms {"id":"0xmd1oq995","name":"Nia","username":"Oui"}
+::ffff:127.0.0.1 - - [13/Jul/2025:13:03:11 +0000] 61872d9a-c5a9-443a-8500-827a20ce1a13 POST 400 - 39 /api/users 53.918 ms {"name":"Nia","username":"Nio"}
+::1 - - [13/Jul/2025:13:03:24 +0000] c46a7781-7b31-4bb4-a5cb-ed9409e9b0bf GET 200 - 628 /api/users 55.088 ms {}
+::1 - - [13/Jul/2025:13:03:24 +0000] 9e17ce97-4d67-4f48-a5a1-d19fe8333c6e GET 304 - - /api/users 49.745 ms {}
+::ffff:127.0.0.1 - - [13/Jul/2025:13:05:03 +0000] 35a88341-e51d-44ba-8dd3-488ae26b2368 POST 400 - 39 /api/users 87.519 ms {"name":"Nia","username":"Nio"}
+::ffff:127.0.0.1 - - [13/Jul/2025:13:05:42 +0000] f03dfde7-d99a-4228-b55e-bd4ad729082e POST 400 - 39 /api/users 67.361 ms {"name":"Nia","username":"Nio"}
+::1 - - [13/Jul/2025:13:09:37 +0000] 8f0ea723-ef8c-4b2d-a507-175c6dc6c6f9 POST 400 - 39 /api/users 69.589 ms {"id":"0xmd1oyqaa","name":"Nia","username":"Neo"}
+::1 - - [13/Jul/2025:13:09:57 +0000] 432ff02c-020a-4aee-b757-fc68e28d0e25 POST 400 - 39 /api/users 57.041 ms {"id":"0xmd1oz5my","name":"Lil","username":"Mok"}
+::1 - - [13/Jul/2025:13:30:42 +0000] 939c0ac4-1e6e-4560-ad0a-42c64b546d90 GET 304 - - /api/users 75.011 ms {}
+::1 - - [13/Jul/2025:13:30:43 +0000] 2cc2d488-0566-4ee1-9230-b7c751e76b6b GET 304 - - /api/users 49.144 ms {}
+::1 - - [13/Jul/2025:13:30:48 +0000] e5ce7b2b-edbd-478c-9d8c-d87962273431 GET 200 - 628 /api/users 157.855 ms {}
+::1 - - [13/Jul/2025:13:31:03 +0000] ccaa1478-18f1-448d-a851-d99ccae0afcd POST 400 - 110 /api/users 10.085 ms {"id":"0xmd1pqa3p","name":"Ta","username":"Ki"}
+::1 - - [13/Jul/2025:16:22:54 +0000] 066b420d-e196-4cc1-b8e4-e7650347bc77 GET 404 - 28 /.well-known/appspecific/com.chrome.devtools.json 2.878 ms {}
+::1 - - [13/Jul/2025:16:22:54 +0000] 5c4f858e-29f7-4b39-8a28-b47f379d4452 GET 304 - - /api/users 76.044 ms {}
+::1 - - [13/Jul/2025:16:22:57 +0000] 196be2a5-9287-46c6-ae30-703d9436c681 GET 404 - 28 /.well-known/appspecific/com.chrome.devtools.json 0.425 ms {}
+::1 - - [13/Jul/2025:16:22:57 +0000] 0b395bf6-0006-4f27-9e26-9ea21c19c593 GET 304 - - /api/users 50.295 ms {}
+::1 - - [14/Jul/2025:14:47:39 +0000] 218daf1b-5cca-4ab0-acbd-cead6be7855e GET 404 - 28 /.well-known/appspecific/com.chrome.devtools.json 3.125 ms {}
+::1 - - [14/Jul/2025:15:39:18 +0000] 22734ef7-1093-4edb-8aaa-4e4735f2b6f0 GET 404 - 28 /.well-known/appspecific/com.chrome.devtools.json 0.637 ms {}
+::ffff:127.0.0.1 - - [15/Jul/2025:17:11:15 +0000] - GET 400 - 27 /api/users/someInvalidId 10.867 ms {}
+::ffff:127.0.0.1 - - [15/Jul/2025:17:11:46 +0000] - GET 404 - 26 /api/users/78642ba9fdb918b32fe495bf 52.628 ms {}
+::ffff:127.0.0.1 - - [16/Jul/2025:15:50:49 +0000] - GET 400 - 27 /api/users/someInvalidId 10.892 ms {}
+::ffff:127.0.0.1 - - [16/Jul/2025:15:54:35 +0000] - GET 400 - 27 /api/users/someInvalidId 13.773 ms {}
+::ffff:127.0.0.1 - - [16/Jul/2025:15:55:15 +0000] - GET 400 - 27 /api/users/someInvalidId 12.702 ms {}
+::ffff:127.0.0.1 - - [16/Jul/2025:16:02:54 +0000] - POST 400 - 111 /api/users 32.681 ms {"name":2023,"username":202}
+::ffff:127.0.0.1 - - [16/Jul/2025:16:04:18 +0000] - GET 404 - 26 /api/users/78642ba9fdb918b32fe495bf 49.410 ms {}
+::ffff:127.0.0.1 - - [16/Jul/2025:16:04:57 +0000] - GET 400 - 27 /api/users/someInvalidId 4.156 ms {}
+::ffff:127.0.0.1 - - [16/Jul/2025:16:10:11 +0000] - GET 400 - 27 /api/users/someInvalidId 3.246 ms {}
+::ffff:127.0.0.1 - - [16/Jul/2025:16:23:47 +0000] - POST 400 - 111 /api/users 20.581 ms {"name":2023,"username":202}
+::ffff:127.0.0.1 - - [16/Jul/2025:17:08:44 +0000] 4c66f001-341d-44ac-8672-c407f43c52a9 GET 400 - 27 /api/users/someInvalidId 11.837 ms {}
+::ffff:127.0.0.1 - - [16/Jul/2025:17:09:28 +0000] 7491601e-4e14-4506-bcae-da3e11e125e0 GET 404 - 26 /api/users/78642ba9fdb918b32fe495bf 77.164 ms {}
+::ffff:127.0.0.1 - - [16/Jul/2025:17:38:35 +0000] eca93a9e-eb54-4aae-92b7-602a17ea776a GET 400 - 27 /api/users/someInvalidId 9.922 ms {}
+::1 - - [16/Jul/2025:17:38:37 +0000] 5a5f5359-114b-4dfb-887a-b34f908de828 GET 404 - 26 /api/users/78642ba9fdb918b32fe495bf 58.980 ms {}
+::1 - - [16/Jul/2025:17:38:38 +0000] 88320518-7e25-40ac-98ad-de06b637ed99 GET 404 - 28 /favicon.ico 0.562 ms {}
+::ffff:127.0.0.1 - - [16/Jul/2025:17:38:38 +0000] 6ae07e1a-86fa-4225-bbc0-38e26f70f88f GET 404 - 26 /api/users/78642ba9fdb918b32fe495bf 144.720 ms {}
+::ffff:127.0.0.1 - - [16/Jul/2025:17:39:28 +0000] 4e04e548-ed47-4fdf-bbda-b8a30b9bdb3b POST 400 - 111 /api/users 15.426 ms {"name":2023,"username":202}
+::ffff:127.0.0.1 - - [16/Jul/2025:17:40:17 +0000] 672fd04f-3b88-43d1-a68e-cb9e364898fb POST 400 - 111 /api/users 5.520 ms {"name":2023,"username":202}
+::ffff:127.0.0.1 - - [16/Jul/2025:17:42:16 +0000] c7d1a69a-be0e-4b40-9404-1209182d7ebc POST 400 - 111 /api/users 18.178 ms {"name":2023,"username":202}
+::ffff:127.0.0.1 - - [16/Jul/2025:17:42:27 +0000] 7d24b680-6e3f-4c04-98c9-46c9ca357ac1 GET 400 - 27 /api/users/someInvalidId 5.883 ms {}
+::ffff:127.0.0.1 - - [16/Jul/2025:18:02:31 +0000] 27bc7206-0c4e-45ba-a19a-ae8ade9b98c1 GET 400 - 27 /api/users/someInvalidId 12.110 ms {}
+::ffff:127.0.0.1 - - [16/Jul/2025:18:02:33 +0000] a95c2e3f-afa0-4d8d-a9ec-797acec34e12 GET 404 - 26 /api/users/78642ba9fdb918b32fe495bf 53.512 ms {}
+::ffff:127.0.0.1 - - [16/Jul/2025:18:02:36 +0000] 1eb4bd20-b9d2-4417-b56d-ce06acebafc3 GET 400 - 27 /api/users/someInvalidId 3.346 ms {}
+::ffff:127.0.0.1 - - [16/Jul/2025:18:03:15 +0000] 8f56ca08-10f9-44eb-94c0-4f1c7813d964 POST 400 - 111 /api/users 14.727 ms {"name":2023,"username":202}
+::ffff:127.0.0.1 - - [16/Jul/2025:18:08:42 +0000] 02385898-c1fc-4521-961a-512175dba4af PUT 400 - 27 /api/users/someInvalidId 11.606 ms {"name":"TELE","username":"MONDE"}
+::ffff:127.0.0.1 - - [16/Jul/2025:18:09:00 +0000] 0c4e290e-1aa5-45ed-8534-1898e61a35f0 DELETE 400 - 27 /api/users/someInvalidId 3.182 ms {}
+::1 - - [16/Jul/2025:18:37:22 +0000] 90473084-15ec-4b83-a603-d455d82c77dc DELETE 204 - - /api/users/687534069b277149240f51e8 71.796 ms {}

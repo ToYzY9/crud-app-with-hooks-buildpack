@@ -1,0 +1,32 @@
+{
+    "name": "crud-app-with-hooks-backend",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "dev": "nodemon index.js",
+        "build:ui": "rm -rf dist && cd ../crud-app-with-hooks-frontend/ && npm run build",
+        "deploy": "git push heroku main",
+        "deploy:full": "npm run build:ui && git add . && git commit -m build-ui && npm run deploy",
+        "logs:prod": "heroku logs --tail",
+        "debugger:start": "node --inspect index.js",
+        "debugger:dev": "nodemon --inspect index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Abdoul BOUCHOUROINE",
+    "license": "MIT",
+    "description": "",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "dotenv": "^17.0.1",
+        "express": "^4.21.2",
+        "mongoose": "^8.16.1",
+        "morgan": "^1.10.0",
+        "rotating-file-stream": "^3.2.6",
+        "uuid": "^11.1.0"
+    },
+    "devDependencies": {
+        "nodemon": "^3.1.9"
+    }
+}

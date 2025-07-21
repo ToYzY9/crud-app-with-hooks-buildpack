@@ -1,0 +1,5 @@
+DELETE http://localhost:3001/api/users/6866d5b0543fa45dea7a86a8
+
+
+###
+DELETE http://localhost:3001/api/users/someInvalidId
